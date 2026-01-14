@@ -110,11 +110,13 @@ The datasets used in the study can be found in the Datasets folder.
 
 To reproduce the statistical analyses reported in the manuscript use the files in the notebooks folder which contain Google Colab files.
 
+
 Run the following to receive TextBlob, VADER, and BERT statistics:
 
 ```bash
 python notebooks/LLMemotions_sentiments.ipynb
 ```
+
 
 Run non-parametric tests and effect size estimation:
 
@@ -131,6 +133,7 @@ Kruskal–Wallis tests with Dunn post-hoc comparisons
 Benjamini–Hochberg FDR correction
 
 Cliff’s delta effect sizes
+
 
 Run SBERT:
 
