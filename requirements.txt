@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-posthocs
+matplotlib
+seaborn
+nltk
+textblob
+vaderSentiment
+transformers
+torch
+llama-cpp-python
