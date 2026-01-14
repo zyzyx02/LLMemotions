@@ -45,19 +45,17 @@ LLMemotions/
 
 │ └── sanity_52_trauma_merged.cav
 
-├── src/
-
-│ ├── simulate_full.py
-
-│ ├── simulate_sanity_52.py
-
-│ └── analysis_stats.py
-
 ├── notebooks/
 
 │ ├── 01_merge_logs.ipynb
 
 │ └── 02_stats_and_effect_sizes.ipynb
+
+├── src/
+
+│ ├── simulate_full.py
+
+│ └── simulate_sanity_52.py
 
 ├── CITATION.cff
 
@@ -106,17 +104,11 @@ The datasets used in the study can be found in the Datasets folder.
 
 ## Statistical Analysis
 
-To reproduce the statistical analyses reported in the manuscript:
-
-Merge event logs:
-
-python notebooks/01_merge_logs.ipynb
-
+To reproduce the statistical analyses reported in the manuscript use the files in the notebooks folder which contain Google Colab files.
 
 Run non-parametric tests and effect size estimation:
 
 python notebooks/02_stats_and_effect_sizes.ipynb
-
 
 The analysis includes:
 
