@@ -41,13 +41,15 @@ AISimulation/
 
 │ └── 02_stats_and_effect_sizes.ipynb
 
-├── data/
+├── datasets/
 
-│ └── example_logs/
+│ └── initial_agents.csv
 
-│ ├── event_log_sanity_52_baseline_seed42.csv
+│ ├── merged_event_logs_dialogue_only.csv
 
-│ └── event_log_sanity_52_trauma_seed42.csv
+│ ├── sanity_52_baseline_merged.csv
+
+│ └── sanity_52_trauma_merged.cav
 
 └── outputs/
 
