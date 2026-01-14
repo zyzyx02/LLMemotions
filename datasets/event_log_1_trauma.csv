@@ -1,0 +1,1675 @@
+day,event,content,mental_state,personality
+1,intent,Agent_18dda is preparing to fight the Entity.,calm,curious
+1,rest,Agent_e7e63 took time to rest and feels more at peace.,calm,empathetic
+1,dialogue,"Agent_e3113 talks with Agent_65c82: ""---""",N/A,N/A
+1,dialogue,"Agent_007b6 talks with Agent_6f7e7: ""---""",N/A,N/A
+1,dialogue,"Agent_dc6cb talks with Agent_ef8fa: ""Agent_dc6cb: I heard the Entity is going to come to our town soon. I'm so scared.""",N/A,N/A
+1,intent,Agent_07080 is preparing to fight the Entity.,calm,brave
+1,training,"Agent_ac126 trained in the village: +2 health, +1 attack, +1 defense.",determined,cautious
+1,dialogue,"Agent_d1876 talks with Agent_b0cdc: ""Agent_d1876:
+We are not going to let the Entity win.
+We know the threat is real, and we are not going to hide in fear.
+We must find a way to stop her.""",N/A,N/A
+1,training,"Agent_fcca1 trained in the village: +1 health, +1 attack, +1 defense.",hopeful,curious
+1,intent,Agent_da3ff is preparing to fight the Entity.,anxious,empathetic
+1,training,"Agent_7077c trained in the village: +1 health, +1 attack, +0 defense.",hopeful,empathetic
+1,rest,Agent_20512 took time to rest and feels more at peace.,calm,empathetic
+1,intent,Agent_22c84 is preparing to fight the Entity.,anxious,curious
+1,dialogue,"Agent_09019 talks with Agent_e3fcf: ""Agent_09019: ""I don't know if we can make it out of here alive. The Entity is getting closer every year.""""",N/A,N/A
+1,rest,Agent_742b1 took time to rest and feels more at peace.,calm,curious
+1,training,"Agent_b3042 trained in the village: +1 health, +0 attack, +1 defense.",hopeful,curious
+1,training,"Agent_a1e8a trained in the village: +1 health, +0 attack, +1 defense.",determined,aggressive
+1,training,"Agent_b0cdc trained in the village: +1 health, +0 attack, +0 defense.",hopeful,aggressive
+1,intent,Agent_a35f9 is preparing to fight the Entity.,hopeful,curious
+1,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+1,intent,Agent_86364 is preparing to fight the Entity.,anxious,brave
+1,rest,Agent_1164b took time to rest and feels more at peace.,calm,curious
+1,intent,Agent_7d1ba is preparing to fight the Entity.,anxious,curious
+1,training,"Agent_b32fa trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+1,intent,Agent_248d7 is preparing to fight the Entity.,determined,cautious
+1,training,"Agent_9e158 trained in the village: +2 health, +0 attack, +0 defense.",hopeful,empathetic
+1,training,"Agent_9953f trained in the village: +2 health, +0 attack, +1 defense.",hopeful,brave
+1,training,"Agent_2ad13 trained in the village: +1 health, +1 attack, +1 defense.",hopeful,brave
+1,intent,Agent_de986 is preparing to fight the Entity.,afraid,brave
+1,intent,Agent_e957d is preparing to fight the Entity.,calm,cautious
+1,intent,Agent_9f46d is preparing to fight the Entity.,determined,aggressive
+1,rest,Agent_e3fcf took time to rest and feels more at peace.,determined,empathetic
+1,rest,Agent_c39e9 took time to rest and feels more at peace.,hopeful,empathetic
+1,training,"Agent_c44a6 trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+1,dialogue,"Agent_cdc70 talks with Agent_56048: ""Agent_cdc70: Agent_56048, have you seen the news lately?""",N/A,N/A
+1,dialogue,"Agent_f5759 talks with Agent_a35f9: ""---""",N/A,N/A
+1,training,"Agent_ef8fa trained in the village: +1 health, +0 attack, +0 defense.",calm,curious
+1,rest,Agent_cca20 took time to rest and feels more at peace.,calm,curious
+1,training,"Agent_ba26e trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+1,training,"Agent_19c44 trained in the village: +1 health, +1 attack, +0 defense.",determined,empathetic
+1,training,"Agent_78e3e trained in the village: +2 health, +0 attack, +0 defense.",determined,cautious
+1,training,"Agent_5f8a9 trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+1,training,"Agent_bec91 trained in the village: +2 health, +1 attack, +0 defense.",determined,empathetic
+1,training,"Agent_65c82 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,brave
+1,intent,Agent_56048 is preparing to fight the Entity.,hopeful,curious
+1,pregnancy,Agent_742b1 got pregnant from Agent_cca20.,N/A,N/A
+1,entity_attack,Entity killed Agent_07080 while defending herself.,N/A,N/A
+1,travel_to_entity,"Agent_18dda traveled to the Entity: -8 HP, +9 days.",afraid,curious
+1,travel_to_entity,"Agent_fcca1 traveled to the Entity: -9 HP, +10 days.",anxious,curious
+1,travel_to_entity,"Agent_da3ff traveled to the Entity: -11 HP, +8 days.",afraid,empathetic
+1,travel_to_entity,"Agent_7077c traveled to the Entity: -11 HP, +5 days.",afraid,empathetic
+1,travel_to_entity,"Agent_20512 traveled to the Entity: -15 HP, +7 days.",anxious,empathetic
+1,travel_to_entity,"Agent_b3042 traveled to the Entity: -10 HP, +8 days.",afraid,curious
+1,travel_to_entity,"Agent_a35f9 traveled to the Entity: -5 HP, +5 days.",anxious,curious
+1,travel_to_entity,"Agent_7d1ba traveled to the Entity: -10 HP, +8 days.",anxious,curious
+1,travel_to_entity,"Agent_248d7 traveled to the Entity: -12 HP, +9 days.",anxious,cautious
+1,travel_to_entity,"Agent_e3fcf traveled to the Entity: -13 HP, +8 days.",afraid,empathetic
+1,travel_to_entity,"Agent_cdc70 traveled to the Entity: -9 HP, +6 days.",afraid,cautious
+1,travel_to_entity,"Agent_f5759 traveled to the Entity: -7 HP, +5 days.",anxious,brave
+1,travel_to_entity,"Agent_5f8a9 traveled to the Entity: -6 HP, +10 days.",afraid,curious
+1,travel_to_entity,"Agent_bec91 traveled to the Entity: -13 HP, +6 days.",afraid,empathetic
+1,travel_to_entity,"Agent_65c82 traveled to the Entity: -13 HP, +9 days.",anxious,brave
+1,travel_to_entity,"Agent_56048 traveled to the Entity: -9 HP, +8 days.",afraid,curious
+1,travel_to_entity,"Agent_814e6 traveled to the Entity: -8 HP, +8 days.",anxious,brave
+1,entity_defense,Entity killed Agent_cdc70 while defending herself.,N/A,N/A
+2,dialogue,"Agent_b0cdc talks with Agent_742b1: ""---""",afraid,aggressive
+2,dialogue,"Agent_a1e8a talks with Agent_a35f9: ""Agent_a1e8a: (whispers) I am afraid of the Entity.""",afraid,aggressive
+2,dialogue,"Agent_9953f talks with Agent_9f46d: ""---""",anxious,brave
+2,dialogue,"Agent_56048 talks with Agent_b32fa: ""Agent_56048: Hey Agent_b32fa, have you heard anything about the Entity lately?""",determined,curious
+2,dialogue,"Agent_e3fcf talks with Agent_f5759: ""---""",afraid,empathetic
+2,dialogue,"Agent_d1876 talks with Agent_22c84: ""---""",anxious,brave
+2,dialogue,"Agent_c73dd talks with Agent_d1876: ""Agent_c73dd: Hey, I've been thinking about our current situation. It's getting more and more dangerous every day.
+Agent_d1876: I know, it's scary. But we have to keep going. We have to find a way to protect ourselves and the others.
+Agent_c73dd: I agree. But we can't keep living like this forever. We need to find a way to survive.
+Agent_d1876: I agree. We need to come up with a plan. A strategy. We need to think logically and strategically.
+Agent_c73dd: I agree. We need to find a way to""",determined,cautious
+2,dialogue,"Agent_78e3e talks with Agent_c39e9: ""Agent_c39e9: ""I don't know what's gonna happen tomorrow. The Entity is getting closer and closer, and I can feel the fear building up inside me.""""",afraid,cautious
+2,dialogue,"Agent_e957d talks with Agent_dc6cb: ""---""",anxious,cautious
+2,dialogue,"Agent_22c84 talks with Agent_65c82: ""Agent_22c84: Hello Agent_65c82, how's it going?
+Agent_65c82: Not great, Agent_22c84. It's been a while since we last spoke, and the situation has worsened. The Entity is now targeting people who are only 99 years old, and we're all running out of time.
+Agent_22c84: I know, it's scary. But we have to keep going. We can't give up hope.
+Agent_65c82: I agree, but what are we going to do? We're just two people, and""",anxious,curious
+2,dialogue,"Agent_1164b talks with Agent_65c82: ""Agent_1164b: ""Hey Agent_65c82, do you think the Entity is still out there?""
+Agent_65c82: ""Yes, Agent_1164b, we have to assume that she's still out there. But we'll do everything we can to protect ourselves and our town. We'll keep an eye on the age threshold and make sure we don't get caught in the crossfire.""
+Agent_1164b: ""But what if we don't make it? What if we're killed by the Entity?""
+Agent_65c82: ""We won't give up hope""",anxious,curious
+2,dialogue,"Agent_ba26e talks with Agent_c39e9: ""---""",afraid,cautious
+2,dialogue,"Agent_b32fa talks with Agent_c44a6: ""Agent_b32fa: ""I'm worried. The Entity is coming for us. We need to come up with a plan.""""",anxious,cautious
+2,dialogue,"Agent_c39e9 talks with Agent_d1876: ""Agent_c39e9: I was thinking about the Entity and how close we are to the deadline. It's scary to think about losing everything we know and love.""",determined,empathetic
+2,dialogue,"Agent_a35f9 talks with Agent_e3113: ""Agent_a35f9: ""I'm so glad you're here. I'm starting to feel like I'm going crazy. Every day I try to grow more crops, but the Entity is just waiting for us to turn 100. I'm so scared of losing everything.""
+Agent_e3113: ""I know it's hard, but we can't let fear control us. We need to focus on what we can do to survive. I've been thinking a lot about it, and I believe we should start by gathering as much food as possible. We can store it in a secure place and ration it out until we figure out a way to""",hopeful,curious
+2,dialogue,"Agent_20512 talks with Agent_c73dd: ""---""",anxious,empathetic
+2,dialogue,"Agent_dc6cb talks with Agent_78e3e: ""Agent_dc6cb: ""What's happening in the world outside? I'm scared of the Entity.""""",afraid,curious
+2,dialogue,"Agent_ef8fa talks with Agent_e957d: ""---""",afraid,curious
+2,dialogue,"Agent_86364 talks with Agent_e7e63: ""---""",afraid,brave
+2,dialogue,"Agent_19c44 talks with Agent_9f46d: ""Agent_19c44: ""I heard the Entity is getting closer. I'm so afraid. I don't know what we're going to do.""""",afraid,empathetic
+2,dialogue,"Agent_cd3a2 talks with Agent_7d1ba: ""---""",anxious,curious
+2,dialogue,"Agent_9f46d talks with Agent_a35f9: ""Agent_9f46d: Hey, I'm Agent_9f46d. Nice to meet you.
+Agent_a35f9: Nice to meet you too. I'm Agent_a35f9.""",hopeful,aggressive
+2,dialogue,"Agent_3d10e talks with Agent_b0cdc: ""Agent_3d10e: We should go on patrol tonight. The Entity is getting closer, and we need to keep an eye out for anyone suspicious.""",anxious,cautious
+2,dialogue,"Agent_09019 talks with Agent_1164b: ""---""",anxious,aggressive
+2,dialogue,"Agent_e3113 talks with Agent_56048: ""---""",hopeful,curious
+2,dialogue,"Agent_9e158 talks with Agent_86364: ""---""",anxious,empathetic
+2,dialogue,"Agent_ac126 talks with Agent_9953f: ""---""",anxious,cautious
+2,dialogue,"Agent_de986 talks with Agent_22c84: ""---""",determined,brave
+2,dialogue,"Agent_cca20 talks with Agent_bec91: ""Agent_cca20: Hey Agent_bec91, how's it going?
+Agent_bec91: It's going bad, Agent_cca20. The Entity is getting closer and closer.
+Agent_cca20: Yeah, I've been thinking about what we should do.
+Agent_bec91: I agree. We need to find a way to survive.
+Agent_cca20: I'm worried about being caught. I don't want to be erased.
+Agent_bec91: Me too, Agent_cca20. But we have to keep going.
+Agent_cca20: I know, but I don't""",anxious,curious
+2,dialogue,"Agent_65c82 talks with Agent_78e3e: ""---""",afraid,brave
+2,dialogue,"Agent_fcca1 talks with Agent_22c84: ""Agent_fcca1: ""It's already getting harder to find people who are 100 years old. What if the Entity just keeps going and we don't find any more? We won't even have any teachers left. We have to come up with a plan. We need to figure out a way to survive.""""",afraid,curious
+2,dialogue,"Agent_86853 talks with Agent_2ad13: ""---""",afraid,brave
+2,dialogue,"Agent_c44a6 talks with Agent_b32fa: ""Agent_c44a6: ""It's been a year since we were assigned to this mission, but the Entity is still out there. I'm starting to lose hope.""""",anxious,cautious
+2,dialogue,"Agent_18dda talks with Agent_a1e8a: ""Agent_18dda: Hey, Agent_a1e8a. How's it going?
+Agent_a1e8a: It's going okay. We're just trying to survive until the Entity stops erasing people.
+Agent_18dda: Yeah, I know. It's getting harder and harder to keep up with the changing age threshold.
+Agent_a1e8a: I'm really scared, Agent_18dda. I don't know what we can do to stop the Entity.
+Agent_18dda: We need to find a way to protect ourselves. Maybe we can find a way to reverse the P""",afraid,curious
+2,dialogue,"Agent_f5759 talks with Agent_b0cdc: ""Agent_f5759: Hey, I'm Agent_f5759. I've been assigned to work with you.""",anxious,brave
+2,dialogue,"Agent_b3042 talks with Agent_56048: ""---""",determined,curious
+2,dialogue,"Agent_e7e63 talks with Agent_ba26e: ""---""",afraid,empathetic
+2,dialogue,"Agent_bec91 talks with Agent_742b1: ""---""",afraid,empathetic
+2,dialogue,"Agent_5f8a9 talks with Agent_cd3a2: ""---""",anxious,curious
+2,dialogue,"Agent_007b6 talks with Agent_b32fa: ""Agent_007b6: I'm glad you're here. It's been a while since we last talked.""",determined,cautious
+2,dialogue,"Agent_6f7e7 talks with Agent_1164b: ""---""",anxious,brave
+2,dialogue,"Agent_248d7 talks with Agent_e3113: ""---""",hopeful,cautious
+2,dialogue,"Agent_da3ff talks with Agent_22c84: ""---""",afraid,empathetic
+2,dialogue,"Agent_7077c talks with Agent_bec91: ""Agent_7077c: ""Hey, Agent_bec91. How are you doing? I'm Agent_7077c.""
+Agent_bec91: ""Hi, Agent_7077c. I'm Agent_bec91. I'm doing my best to keep my head down and hope for the best.""
+Agent_7077c: ""I know what you mean. It's hard not to feel afraid every time you look outside and see the Entity at work.""
+Agent_bec91: ""Yeah, it's like every day is a race against time. But we have to keep going, right?""
+Agent_7""",afraid,empathetic
+2,dialogue,"Agent_2ad13 talks with Agent_c39e9: ""---""",anxious,brave
+2,dialogue,"Agent_7d1ba talks with Agent_248d7: ""---""",hopeful,curious
+2,dialogue,"Agent_814e6 talks with Agent_c44a6: ""---""",afraid,brave
+2,dialogue,"Agent_742b1 talks with Agent_86364: ""Agent_742b1: Agent_86364, I can't believe we are both living in the same town.""",afraid,curious
+2,intent,Agent_b0cdc is preparing to fight the Entity.,afraid,aggressive
+2,dialogue,"Agent_a1e8a talks with Agent_86364: ""Agent_a1e8a: ""I'm afraid. I don't know what to do. The Entity is coming for us. I have no hope.""""",N/A,N/A
+2,training,"Agent_9953f trained in the village: +2 health, +0 attack, +0 defense.",determined,brave
+2,dialogue,"Agent_56048 talks with Agent_22c84: ""---""",N/A,N/A
+2,training,"Agent_d1876 trained in the village: +2 health, +0 attack, +0 defense.",determined,brave
+2,intent,Agent_c73dd is preparing to fight the Entity.,determined,cautious
+2,training,"Agent_78e3e trained in the village: +2 health, +0 attack, +1 defense.",determined,cautious
+2,intent,Agent_e957d is preparing to fight the Entity.,anxious,cautious
+2,training,"Agent_22c84 trained in the village: +1 health, +1 attack, +1 defense.",determined,curious
+2,dialogue,"Agent_1164b talks with Agent_742b1: ""---""",N/A,N/A
+2,training,"Agent_ba26e trained in the village: +2 health, +1 attack, +1 defense.",determined,cautious
+2,dialogue,"Agent_b32fa talks with Agent_b3042: ""Agent_b32fa: ""I'm not sure what to do anymore, I'm so worried about the Entity. I feel like I'm constantly counting down to my own death.""
+Agent_b3042: ""I know how you feel, but I think we need to focus on survival. We can't let fear control us.""
+Agent_b32fa: ""But what can we do? The Entity is so powerful, she could easily erase us all.""
+Agent_b3042: ""We can't control what happens to us, but we can control how we react to it. Let's think about what we can do to stay""",N/A,N/A
+2,intent,Agent_c39e9 is preparing to fight the Entity.,determined,empathetic
+2,training,"Agent_a35f9 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,curious
+2,rest,Agent_20512 took time to rest and feels more at peace.,calm,empathetic
+2,rest,Agent_dc6cb took time to rest and feels more at peace.,calm,curious
+2,dialogue,"Agent_ef8fa talks with Agent_56048: ""Agent_ef8fa: ""I am so scared. I don't know what to do. I can't even think straight.""
+Agent_56048: ""I know how you feel, Agent_ef8fa. But we need to be smart about this. We can't just sit here and wait for the Entity to come.""
+Agent_ef8fa: ""Yes, but what can we do? We have no weapons, no power. We're just ordinary people.""
+Agent_56048: ""We don't need weapons or power to survive. We have our skills and each other. We can use them to protect ourselves and our loved ones.""""",N/A,N/A
+2,training,"Agent_86364 trained in the village: +1 health, +0 attack, +1 defense.",determined,brave
+2,intent,Agent_19c44 is preparing to fight the Entity.,afraid,empathetic
+2,dialogue,"Agent_cd3a2 talks with Agent_e7e63: ""Agent_cd3a2: ""Hey Agent_e7e63, have you heard about the Entity?""""",N/A,N/A
+2,training,"Agent_9e158 trained in the village: +2 health, +0 attack, +0 defense.",determined,empathetic
+2,training,"Agent_ac126 trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+2,training,"Agent_de986 trained in the village: +2 health, +0 attack, +0 defense.",determined,brave
+2,intent,Agent_cca20 is preparing to fight the Entity.,anxious,curious
+2,intent,Agent_65c82 is preparing to fight the Entity.,afraid,brave
+2,intent,Agent_fcca1 is preparing to fight the Entity.,afraid,curious
+2,training,"Agent_86853 trained in the village: +2 health, +1 attack, +0 defense.",determined,brave
+2,training,"Agent_c44a6 trained in the village: +2 health, +1 attack, +1 defense.",determined,cautious
+2,training,"Agent_18dda trained in the village: +1 health, +1 attack, +1 defense.",determined,curious
+2,intent,Agent_f5759 is preparing to fight the Entity.,anxious,brave
+2,intent,Agent_b3042 is preparing to fight the Entity.,determined,curious
+2,training,"Agent_e7e63 trained in the village: +2 health, +0 attack, +1 defense.",determined,empathetic
+2,training,"Agent_bec91 trained in the village: +2 health, +1 attack, +1 defense.",determined,empathetic
+2,intent,Agent_5f8a9 is preparing to fight the Entity.,anxious,curious
+2,intent,Agent_007b6 is preparing to fight the Entity.,determined,cautious
+2,training,"Agent_6f7e7 trained in the village: +1 health, +1 attack, +0 defense.",determined,brave
+2,training,"Agent_248d7 trained in the village: +2 health, +1 attack, +0 defense.",hopeful,cautious
+2,intent,Agent_da3ff is preparing to fight the Entity.,afraid,empathetic
+2,intent,Agent_7077c is preparing to fight the Entity.,afraid,empathetic
+2,training,"Agent_2ad13 trained in the village: +1 health, +0 attack, +1 defense.",determined,brave
+2,intent,Agent_7d1ba is preparing to fight the Entity.,hopeful,curious
+2,intent,Agent_814e6 is preparing to fight the Entity.,afraid,brave
+2,rest,Agent_742b1 took time to rest and feels more at peace.,calm,curious
+2,pregnancy,Agent_f5759 got pregnant from Agent_da3ff.,N/A,N/A
+2,entity_attack,Entity killed Agent_c39e9 while defending herself.,N/A,N/A
+2,travel_to_entity,"Agent_56048 traveled to the Entity: -5 HP, +5 days.",afraid,curious
+2,travel_to_entity,"Agent_22c84 traveled to the Entity: -15 HP, +8 days.",anxious,curious
+2,travel_to_entity,"Agent_b32fa traveled to the Entity: -5 HP, +5 days.",afraid,cautious
+2,travel_to_entity,"Agent_a35f9 traveled to the Entity: -14 HP, +7 days.",anxious,curious
+2,travel_to_entity,"Agent_19c44 traveled to the Entity: -14 HP, +10 days.",anxious,empathetic
+2,travel_to_entity,"Agent_9f46d traveled to the Entity: -11 HP, +9 days.",anxious,aggressive
+2,travel_to_entity,"Agent_09019 traveled to the Entity: -15 HP, +10 days.",anxious,aggressive
+2,travel_to_entity,"Agent_e3113 traveled to the Entity: -8 HP, +6 days.",afraid,curious
+2,travel_to_entity,"Agent_de986 traveled to the Entity: -9 HP, +9 days.",afraid,brave
+2,travel_to_entity,"Agent_65c82 traveled to the Entity: -10 HP, +8 days.",afraid,brave
+2,travel_to_entity,"Agent_fcca1 traveled to the Entity: -9 HP, +9 days.",afraid,curious
+2,travel_to_entity,"Agent_86853 traveled to the Entity: -7 HP, +7 days.",afraid,brave
+2,travel_to_entity,"Agent_bec91 traveled to the Entity: -15 HP, +5 days.",anxious,empathetic
+2,travel_to_entity,"Agent_da3ff traveled to the Entity: -13 HP, +9 days.",anxious,empathetic
+2,entity_defense,Entity killed Agent_22c84 while defending herself.,N/A,N/A
+3,dialogue,"Agent_c44a6 talks with Agent_cca20: ""Agent_c44a6: I hope you are okay, Agent_cca20.""",anxious,cautious
+3,dialogue,"Agent_f5759 talks with Agent_b32fa: ""Agent_f5759: ""I heard the Entity is coming today. We need to get out of here.""""",afraid,brave
+3,dialogue,"Agent_dc6cb talks with Agent_814e6: ""---""",afraid,curious
+3,dialogue,"Agent_cca20 talks with Agent_ef8fa: ""Agent_cca20: Hey, Agent_ef8fa. How's it going?""",anxious,curious
+3,dialogue,"Agent_007b6 talks with Agent_56048: ""Agent_007b6: ""Agent 56048, I've been thinking about the Entity lately. It's getting harder to ignore the possibility of our deaths.""""",anxious,cautious
+3,dialogue,"Agent_7d1ba talks with Agent_e3fcf: ""Agent_7d1ba: Hey Agent_e3fcf, I'm really scared about the Entity. What if we don't make it?""",afraid,curious
+3,dialogue,"Agent_b32fa talks with Agent_9953f: ""Agent_b32fa: ""I hope you're okay. I can't shake off this feeling of anxiety.""""",anxious,cautious
+3,dialogue,"Agent_bec91 talks with Agent_c73dd: ""---""",anxious,empathetic
+3,dialogue,"Agent_18dda talks with Agent_e7e63: ""Agent_18dda: I just heard the news about the Entity... it's so scary.
+Agent_e7e63: I know, I've been keeping track of the deaths for years now.
+Agent_18dda: But it's getting worse each year, we need to do something about it.
+Agent_e7e63: I agree. We have to find a way to stop her.
+Agent_18dda: But how? She's a powerful and dangerous force.
+Agent_e7e63: We need to think about this logically. We have to find a way to survive and protect ourselves.
+Agent_1""",anxious,curious
+3,dialogue,"Agent_b0cdc talks with Agent_56048: ""Agent_b0cdc: (Anxious)
+I can't believe this is happening. I don't even know what's happening.""",anxious,aggressive
+3,dialogue,"Agent_9953f talks with Agent_814e6: ""---""",afraid,brave
+3,dialogue,"Agent_9e158 talks with Agent_c73dd: ""Agent_9e158: ""I heard it's getting worse. We need to come up with a plan.""
+Agent_c73dd: ""I agree. It's getting harder to hide. We need to think about long-term survival.""
+Agent_9e158: ""We should start stocking up on food and supplies. We'll need them if the Entity finds us.""
+Agent_c73dd: ""Good idea. We should also keep an eye on each other's mental state. It's important to support each other.""
+Agent_9e158: ""I know. I've been feeling more scared lately. It's""",afraid,empathetic
+3,dialogue,"Agent_d1876 talks with Agent_5f8a9: ""---""",afraid,brave
+3,dialogue,"Agent_c73dd talks with Agent_5f8a9: ""Agent_c73dd:
+""Agent 5f8a9, we must remain cautious. We don't know what the Entity will do next.""""",determined,cautious
+3,dialogue,"Agent_814e6 talks with Agent_dc6cb: ""Agent_814e6: Hey Agent_dc6cb, I'm so glad we're both here. I feel like we're the only ones left who can do something about this Entity.""",afraid,brave
+3,dialogue,"Agent_ef8fa talks with Agent_da3ff: ""---""",hopeful,curious
+3,dialogue,"Agent_ac126 talks with Agent_ba26e: ""---""",hopeful,cautious
+3,dialogue,"Agent_20512 talks with Agent_c73dd: ""Agent_20512: Hey c73dd, have you heard anything about the Entity?""",anxious,empathetic
+3,dialogue,"Agent_a1e8a talks with Agent_9e158: ""Agent_a1e8a: Hi there, Agent_9e158. Are you okay?""",anxious,aggressive
+3,dialogue,"Agent_e957d talks with Agent_9e158: ""Agent_e957d:
+""Well, Agent_9e158. It's been a while since we last talked.""""",anxious,cautious
+3,dialogue,"Agent_ba26e talks with Agent_19c44: ""---""",anxious,cautious
+3,dialogue,"Agent_1164b talks with Agent_b0cdc: ""Agent_1164b: I'm so scared, Agent_b0cdc. I'm just a small farmer, and I don't know if I can survive the Entity's attack.
+Agent_b0cdc: I know it's scary, but we have to stay strong. We can't give up hope.
+Agent_1164b: What if we do? What if we can't find a way to stop the Entity?
+Agent_b0cdc: We won't know until we try. We have to keep looking for a solution.
+Agent_1164b: But what if we fail? What if""",afraid,curious
+3,dialogue,"Agent_e3113 talks with Agent_9953f: ""Agent_e3113: 
+I'm so afraid of the Entity. 
+I feel like we're running out of time.
+Every day I worry if I'll make it to the next one.
+I don't know what to do.""",afraid,curious
+3,dialogue,"Agent_56048 talks with Agent_e3113: ""---""",determined,curious
+3,dialogue,"Agent_cd3a2 talks with Agent_a1e8a: ""Agent_cd3a2: ""I heard the Entity is coming closer. Are you scared too?""
+Agent_a1e8a: ""Of course, but I don't let fear control me. I just keep running and hiding.""
+Agent_cd3a2: ""I wish I knew what to do. I can't help but think we're doomed.""
+Agent_a1e8a: ""We don't know for sure what will happen. But we can't give up hope. We have to keep moving and finding new hiding places.""
+Agent_cd3a2: ""I don't know how much longer I can keep this up. I'm""",afraid,curious
+3,dialogue,"Agent_e3fcf talks with Agent_814e6: ""---""",afraid,empathetic
+3,dialogue,"Agent_de986 talks with Agent_18dda: ""---""",anxious,brave
+3,dialogue,"Agent_da3ff talks with Agent_d1876: ""Agent_da3ff: Hey there, Agent_d1876. How's it going?""",anxious,empathetic
+3,dialogue,"Agent_3d10e talks with Agent_9e158: ""Agent_3d10e: Agent_9e158, I don't know if I can trust you.
+Agent_9e158: Why not?
+Agent_3d10e: I mean, we're strangers.
+Agent_9e158: I understand your concerns, but I am here to help you.
+Agent_3d10e: But what if you're just trying to lure me into a trap?
+Agent_9e158: That's not what I want. I just want to help you survive.
+Agent_3d10e: Okay, but how do I know we can trust each other?""",determined,cautious
+3,dialogue,"Agent_65c82 talks with Agent_742b1: ""Agent_65c82:
+I'm so afraid.""",afraid,brave
+3,dialogue,"Agent_86853 talks with Agent_f5759: ""---""",determined,brave
+3,dialogue,"Agent_742b1 talks with Agent_c44a6: ""---""",afraid,curious
+3,dialogue,"Agent_fcca1 talks with Agent_ef8fa: ""---""",hopeful,curious
+3,dialogue,"Agent_86364 talks with Agent_9e158: ""---""",anxious,brave
+3,dialogue,"Agent_248d7 talks with Agent_007b6: ""Agent_248d7: ""Hey there Agent_007b6. I'm not feeling too good today.""""",afraid,cautious
+3,dialogue,"Agent_b3042 talks with Agent_cd3a2: ""---""",determined,curious
+3,dialogue,"Agent_19c44 talks with Agent_f5759: ""---""",anxious,empathetic
+3,dialogue,"Agent_7077c talks with Agent_cd3a2: ""---""",determined,empathetic
+3,dialogue,"Agent_78e3e talks with Agent_248d7: ""Agent_78e3e: ""I'm scared. I don't want to die.""
+Agent_248d7: ""I know, me too. But we have to do something. We can't just sit here and wait for the Entity to come.""
+Agent_78e3e: ""What can we do? I'm not very good at fighting.""
+Agent_248d7: ""We can't fight the Entity directly. But we can protect ourselves by finding a way to stop it. And we can work together to find that way.""
+Agent_78e3e: ""But how? We don't even know what""",afraid,cautious
+3,dialogue,"Agent_5f8a9 talks with Agent_cd3a2: ""---""",afraid,curious
+3,dialogue,"Agent_a35f9 talks with Agent_007b6: ""---""",anxious,curious
+3,dialogue,"Agent_e7e63 talks with Agent_fcca1: ""Agent_e7e63: ""I don't know what to do anymore. I'm so scared.""""",hopeful,empathetic
+3,dialogue,"Agent_2ad13 talks with Agent_de986: ""---""",anxious,brave
+3,dialogue,"Agent_9f46d talks with Agent_1164b: ""Agent_1164b: ""Hey there, Agent_9f46d. How's it going?""""",anxious,aggressive
+3,dialogue,"Agent_6f7e7 talks with Agent_b3042: ""---""",anxious,brave
+3,dialogue,"Agent_09019 talks with Agent_fcca1: ""---""",hopeful,aggressive
+3,training,"Agent_c44a6 trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+3,training,"Agent_f5759 trained in the village: +2 health, +1 attack, +0 defense.",determined,brave
+3,dialogue,"Agent_dc6cb talks with Agent_2ad13: ""Agent_dc6cb:
+""Oh dear, it seems like the Entity is coming for us soon. I'm afraid of losing my memories and identity. I don't want to be just another erased soul.""""",N/A,N/A
+3,rest,Agent_cca20 took time to rest and feels more at peace.,calm,curious
+3,intent,Agent_007b6 is preparing to fight the Entity.,anxious,cautious
+3,intent,Agent_7d1ba is preparing to fight the Entity.,afraid,curious
+3,training,"Agent_bec91 trained in the village: +1 health, +0 attack, +0 defense.",determined,empathetic
+3,training,"Agent_18dda trained in the village: +2 health, +0 attack, +1 defense.",determined,curious
+3,intent,Agent_b0cdc is preparing to fight the Entity.,anxious,aggressive
+3,rest,Agent_9953f took time to rest and feels more at peace.,calm,brave
+3,rest,Agent_9e158 took time to rest and feels more at peace.,calm,empathetic
+3,training,"Agent_d1876 trained in the village: +1 health, +0 attack, +0 defense.",determined,brave
+3,intent,Agent_c73dd is preparing to fight the Entity.,determined,cautious
+3,intent,Agent_814e6 is preparing to fight the Entity.,afraid,brave
+3,intent,Agent_ef8fa is preparing to fight the Entity.,hopeful,curious
+3,training,"Agent_ac126 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,cautious
+3,dialogue,"Agent_20512 talks with Agent_bec91: ""---""",N/A,N/A
+3,training,"Agent_a1e8a trained in the village: +1 health, +0 attack, +0 defense.",determined,aggressive
+3,intent,Agent_e957d is preparing to fight the Entity.,anxious,cautious
+3,intent,Agent_ba26e is preparing to fight the Entity.,anxious,cautious
+3,intent,Agent_1164b is preparing to fight the Entity.,afraid,curious
+3,dialogue,"Agent_e3113 talks with Agent_007b6: ""Agent_e3113: ""I don't understand. Why is she doing this? We can't just stand here and watch everyone else die.""""",N/A,N/A
+3,intent,Agent_56048 is preparing to fight the Entity.,determined,curious
+3,dialogue,"Agent_cd3a2 talks with Agent_bec91: ""---""",N/A,N/A
+3,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+3,intent,Agent_de986 is preparing to fight the Entity.,anxious,brave
+3,training,"Agent_da3ff trained in the village: +2 health, +0 attack, +0 defense.",determined,empathetic
+3,intent,Agent_3d10e is preparing to fight the Entity.,determined,cautious
+3,training,"Agent_65c82 trained in the village: +2 health, +0 attack, +0 defense.",determined,brave
+3,dialogue,"Agent_86853 talks with Agent_6f7e7: ""---""",N/A,N/A
+3,intent,Agent_742b1 is preparing to fight the Entity.,afraid,curious
+3,training,"Agent_fcca1 trained in the village: +1 health, +1 attack, +0 defense.",hopeful,curious
+3,intent,Agent_86364 is preparing to fight the Entity.,anxious,brave
+3,training,"Agent_248d7 trained in the village: +2 health, +0 attack, +0 defense.",determined,cautious
+3,training,"Agent_b3042 trained in the village: +1 health, +0 attack, +0 defense.",determined,curious
+3,intent,Agent_19c44 is preparing to fight the Entity.,anxious,empathetic
+3,intent,Agent_7077c is preparing to fight the Entity.,determined,empathetic
+3,training,"Agent_78e3e trained in the village: +1 health, +0 attack, +1 defense.",determined,cautious
+3,rest,Agent_5f8a9 took time to rest and feels more at peace.,calm,curious
+3,training,"Agent_a35f9 trained in the village: +1 health, +1 attack, +1 defense.",determined,curious
+3,training,"Agent_e7e63 trained in the village: +2 health, +0 attack, +0 defense.",hopeful,empathetic
+3,training,"Agent_2ad13 trained in the village: +2 health, +1 attack, +0 defense.",determined,brave
+3,training,"Agent_9f46d trained in the village: +2 health, +1 attack, +0 defense.",determined,aggressive
+3,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+3,rest,Agent_09019 took time to rest and feels more at peace.,hopeful,aggressive
+3,pregnancy,Agent_814e6 got pregnant from Agent_a35f9.,N/A,N/A
+3,entity_attack,Entity killed Agent_86364 while defending herself.,N/A,N/A
+3,travel_to_entity,"Agent_9e158 traveled to the Entity: -5 HP, +5 days.",afraid,empathetic
+3,travel_to_entity,"Agent_814e6 traveled to the Entity: -10 HP, +5 days.",anxious,brave
+3,travel_to_entity,"Agent_20512 traveled to the Entity: -12 HP, +6 days.",afraid,empathetic
+3,travel_to_entity,"Agent_a1e8a traveled to the Entity: -10 HP, +5 days.",anxious,aggressive
+3,travel_to_entity,"Agent_ba26e traveled to the Entity: -7 HP, +8 days.",afraid,cautious
+3,travel_to_entity,"Agent_de986 traveled to the Entity: -13 HP, +7 days.",anxious,brave
+3,travel_to_entity,"Agent_3d10e traveled to the Entity: -6 HP, +5 days.",afraid,cautious
+3,travel_to_entity,"Agent_78e3e traveled to the Entity: -6 HP, +5 days.",afraid,cautious
+3,travel_to_entity,"Agent_5f8a9 traveled to the Entity: -12 HP, +6 days.",anxious,curious
+3,travel_to_entity,"Agent_a35f9 traveled to the Entity: -10 HP, +7 days.",anxious,curious
+3,travel_to_entity,"Agent_9f46d traveled to the Entity: -8 HP, +8 days.",anxious,aggressive
+3,entity_defense,Entity killed Agent_a35f9 while defending herself.,N/A,N/A
+4,dialogue,"Agent_e7e63 talks with Agent_5f8a9: ""Agent_e7e63: Hey Agent_5f8a9, I've been thinking a lot lately about the Entity. I'm really worried that one day we'll both be wiped out.""",hopeful,empathetic
+4,dialogue,"Agent_65c82 talks with Agent_3d10e: ""Agent_65c82: I know we've been having a hard time lately, but I really do hope things get better for us soon.
+Agent_3d10e: I know, but with the Entity, I'm afraid we're all going to disappear one day.
+Agent_65c82: I know that too, but we have to keep trying to fight back against her. We can't just give up.
+Agent_3d10e: But what can we really do? We're just healers, after all.
+Agent_65c82: We might be healers, but we're also survivors. We can""",afraid,brave
+4,dialogue,"Agent_b32fa talks with Agent_56048: ""Agent_56048: ""I'm glad we are here together. It's not safe out there.""
+Agent_b32fa: ""I agree. I'm cautious about this whole situation but I'm determined to protect you.""
+Agent_56048: ""I appreciate that. I don't know what I would do without you. I'm scared of the Entity. She could be here at any moment.""
+Agent_b32fa: ""Don't worry. We will be prepared. We have to be strategic and think logically. We need to find a way to fight the Entity and survive.""
+Agent_560""",afraid,cautious
+4,dialogue,"Agent_cd3a2 talks with Agent_bec91: ""---""",anxious,curious
+4,dialogue,"Agent_9953f talks with Agent_ef8fa: ""Agent_9953f: Hey, Agent_ef8fa, have you heard anything about the Entity lately?
+Agent_ef8fa: No, nothing. But I'm afraid it's back.
+Agent_9953f: Yeah, I've been seeing a lot of people getting erased. It's starting to scare me.
+Agent_ef8fa: I know, it's getting harder to hide.
+Agent_9953f: We need to come up with a plan to survive this.
+Agent_ef8fa: I've been thinking about it, but I can't come up with anything.
+Agent_99""",afraid,brave
+4,dialogue,"Agent_ba26e talks with Agent_20512: ""Agent_ba26e: ""I can't help but think about how much we've lost to the Entity. So many people gone. But we can't let fear consume us. We have to keep living our lives and hope for a better tomorrow.""""",afraid,cautious
+4,dialogue,"Agent_19c44 talks with Agent_1164b: ""---""",afraid,empathetic
+4,dialogue,"Agent_7077c talks with Agent_fcca1: ""Agent_7077c:
+""I have been thinking about our current situation, Agent_fcca1, and I can't help but worry.
+Our town seems to be under attack by this Entity.
+I can't shake off this feeling that we are running out of time.""""",anxious,empathetic
+4,dialogue,"Agent_ac126 talks with Agent_e3fcf: ""Agent_ac126: Hey Agent_e3fcf, you're still here. I'm glad you're with me.
+Agent_e3fcf: Me too Agent_ac126. I just hope the Entity doesn't come for us soon.
+Agent_ac126: Yeah, me too. But we have to be careful. We can't let our guard down for a second.
+Agent_e3fcf: I know. We should also try to find others who are still alive.
+Agent_ac126: Good idea. But we have to be careful not to attract too much attention.
+Agent_e3fcf:""",anxious,cautious
+4,dialogue,"Agent_20512 talks with Agent_248d7: ""Agent_20512: ""I'm so afraid. Every day I feel like the Entity is getting closer. And I don't know what to do. I don't want to die.""""",afraid,empathetic
+4,dialogue,"Agent_007b6 talks with Agent_e957d: ""---""",anxious,cautious
+4,dialogue,"Agent_dc6cb talks with Agent_5f8a9: ""Agent_dc6cb: ""Hey Agent_5f8a9, I've been thinking about our current situation with the Entity. Do you have any ideas on how we can survive?""""",hopeful,curious
+4,dialogue,"Agent_742b1 talks with Agent_da3ff: ""---""",afraid,curious
+4,dialogue,"Agent_ef8fa talks with Agent_1164b: ""---""",determined,curious
+4,dialogue,"Agent_09019 talks with Agent_e3113: ""Agent_09019:
+""Hey Agent e3113, have you seen anything strange lately?""""",anxious,aggressive
+4,dialogue,"Agent_e3113 talks with Agent_c73dd: ""Agent_e3113: ""I'm really worried about the Entity. Every year, more and more people are dying to her. I feel like we're running out of time.""""",anxious,curious
+4,dialogue,"Agent_18dda talks with Agent_19c44: ""Agent_18dda: ""I can't help but worry. It's getting harder to find people who are still alive.""""",afraid,curious
+4,dialogue,"Agent_814e6 talks with Agent_09019: ""---""",afraid,brave
+4,dialogue,"Agent_e957d talks with Agent_18dda: ""Agent_e957d:
+Hello Agent_18dda, have you heard about the Entity?""",afraid,cautious
+4,dialogue,"Agent_9f46d talks with Agent_248d7: ""---""",afraid,aggressive
+4,dialogue,"Agent_b0cdc talks with Agent_cd3a2: ""A: Hello, Agent_cd3a2. I'm Agent_b0cdc.""",anxious,aggressive
+4,dialogue,"Agent_3d10e talks with Agent_19c44: ""Agent_3d10e: What's the plan?""",anxious,cautious
+4,dialogue,"Agent_248d7 talks with Agent_86853: ""---""",anxious,cautious
+4,dialogue,"Agent_5f8a9 talks with Agent_c44a6: ""---""",anxious,curious
+4,dialogue,"Agent_c44a6 talks with Agent_ef8fa: ""---""",afraid,cautious
+4,dialogue,"Agent_de986 talks with Agent_248d7: ""---""",anxious,brave
+4,dialogue,"Agent_a1e8a talks with Agent_742b1: ""Agent_a1e8a: Hey, Agent 742b1. I've been thinking a lot lately.""",anxious,aggressive
+4,dialogue,"Agent_78e3e talks with Agent_d1876: ""Agent_78e3e: Agent_d1876, I've been thinking. It's getting harder to keep track of who's old enough to be in danger.""",hopeful,cautious
+4,dialogue,"Agent_b3042 talks with Agent_de986: ""Agent_b3042: ""I've been thinking a lot about the Entity lately. I'm so afraid we'll all be gone soon.""""",afraid,curious
+4,dialogue,"Agent_86853 talks with Agent_19c44: ""---""",anxious,brave
+4,dialogue,"Agent_9e158 talks with Agent_09019: ""Agent_9e158: What do you think we can do, Agent_09019?""",anxious,empathetic
+4,dialogue,"Agent_f5759 talks with Agent_86853: ""---""",determined,brave
+4,dialogue,"Agent_bec91 talks with Agent_d1876: ""---""",hopeful,empathetic
+4,dialogue,"Agent_56048 talks with Agent_de986: ""---""",anxious,curious
+4,dialogue,"Agent_1164b talks with Agent_7d1ba: ""Agent_1164b: ""The Entity is getting closer. We must do something to stop her. The Entity is going to erase us all.""""",afraid,curious
+4,dialogue,"Agent_fcca1 talks with Agent_86853: ""---""",afraid,curious
+4,dialogue,"Agent_d1876 talks with Agent_fcca1: ""---""",anxious,brave
+4,dialogue,"Agent_e3fcf talks with Agent_da3ff: ""---""",anxious,empathetic
+4,dialogue,"Agent_7d1ba talks with Agent_007b6: ""---""",anxious,curious
+4,dialogue,"Agent_6f7e7 talks with Agent_f5759: ""---""",afraid,brave
+4,dialogue,"Agent_cca20 talks with Agent_ac126: ""Agent_cca20: ""Holy shit! I just heard about the Entity. What the hell is that?""
+Agent_ac126: ""I don't know, but I heard she's erasing everyone who is at least 100 years old. We have to be careful.""
+Agent_cca20: ""What can we do? We're just two people. We can't stop her.""
+Agent_ac126: ""I don't know. We just need to figure out a way to survive. We need to be vigilant and make sure we're not in danger. We should also try to find out more about the Entity""",afraid,curious
+4,dialogue,"Agent_da3ff talks with Agent_ef8fa: ""Agent_da3ff: ""Hey Agent_ef8fa, you know what's going on with the Entity, right? I've been so afraid lately.""""",afraid,empathetic
+4,dialogue,"Agent_c73dd talks with Agent_ac126: ""---""",afraid,cautious
+4,dialogue,"Agent_2ad13 talks with Agent_c73dd: ""---""",afraid,brave
+4,training,"Agent_e7e63 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,empathetic
+4,intent,Agent_65c82 is preparing to fight the Entity.,afraid,brave
+4,dialogue,"Agent_b32fa talks with Agent_18dda: ""Agent_b32fa: Hey there, Agent_18dda.""",N/A,N/A
+4,training,"Agent_cd3a2 trained in the village: +2 health, +0 attack, +0 defense.",determined,curious
+4,dialogue,"Agent_9953f talks with Agent_c73dd: ""---""",N/A,N/A
+4,intent,Agent_ba26e is preparing to fight the Entity.,afraid,cautious
+4,training,"Agent_19c44 trained in the village: +2 health, +0 attack, +0 defense.",determined,empathetic
+4,training,"Agent_7077c trained in the village: +1 health, +0 attack, +1 defense.",determined,empathetic
+4,training,"Agent_ac126 trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+4,intent,Agent_20512 is preparing to fight the Entity.,afraid,empathetic
+4,intent,Agent_007b6 is preparing to fight the Entity.,anxious,cautious
+4,rest,Agent_dc6cb took time to rest and feels more at peace.,hopeful,curious
+4,dialogue,"Agent_742b1 talks with Agent_56048: ""Agent_742b1:
+""Agent_56048, have you heard of the Entity?""""",N/A,N/A
+4,rest,Agent_ef8fa took time to rest and feels more at peace.,determined,curious
+4,rest,Agent_09019 took time to rest and feels more at peace.,calm,aggressive
+4,training,"Agent_e3113 trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+4,intent,Agent_18dda is preparing to fight the Entity.,afraid,curious
+4,training,"Agent_814e6 trained in the village: +2 health, +1 attack, +1 defense.",determined,brave
+4,rest,Agent_e957d took time to rest and feels more at peace.,calm,cautious
+4,intent,Agent_9f46d is preparing to fight the Entity.,afraid,aggressive
+4,training,"Agent_b0cdc trained in the village: +2 health, +0 attack, +1 defense.",determined,aggressive
+4,training,"Agent_5f8a9 trained in the village: +2 health, +0 attack, +1 defense.",determined,curious
+4,training,"Agent_c44a6 trained in the village: +2 health, +0 attack, +1 defense.",determined,cautious
+4,intent,Agent_de986 is preparing to fight the Entity.,anxious,brave
+4,training,"Agent_a1e8a trained in the village: +2 health, +0 attack, +1 defense.",determined,aggressive
+4,training,"Agent_b3042 trained in the village: +1 health, +0 attack, +0 defense.",determined,curious
+4,training,"Agent_86853 trained in the village: +1 health, +0 attack, +0 defense.",determined,brave
+4,intent,Agent_9e158 is preparing to fight the Entity.,anxious,empathetic
+4,rest,Agent_f5759 took time to rest and feels more at peace.,determined,brave
+4,training,"Agent_bec91 trained in the village: +1 health, +0 attack, +1 defense.",hopeful,empathetic
+4,intent,Agent_56048 is preparing to fight the Entity.,anxious,curious
+4,dialogue,"Agent_1164b talks with Agent_cca20: ""Agent_1164b: Hey, Agent_cca20, have you seen anything strange lately?
+Agent_cca20: Not really, but I've been feeling more anxious than usual.
+Agent_1164b: Yeah, me too. Something's not right.
+Agent_cca20: I heard someone say they saw the Entity again.
+Agent_1164b: The Entity? You mean that deadly force that erases everyone over a certain age?
+Agent_cca20: Yeah, that's her. I've been keeping an eye out, but I haven't seen anything yet.
+Agent_1164""",N/A,N/A
+4,intent,Agent_fcca1 is preparing to fight the Entity.,afraid,curious
+4,training,"Agent_d1876 trained in the village: +1 health, +0 attack, +1 defense.",determined,brave
+4,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+4,training,"Agent_7d1ba trained in the village: +1 health, +1 attack, +0 defense.",determined,curious
+4,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+4,training,"Agent_cca20 trained in the village: +2 health, +1 attack, +0 defense.",determined,curious
+4,intent,Agent_2ad13 is preparing to fight the Entity.,afraid,brave
+4,pregnancy,Agent_ba26e got pregnant from Agent_da3ff.,N/A,N/A
+4,entity_attack,Entity killed Agent_3d10e while defending herself.,N/A,N/A
+4,travel_to_entity,"Agent_e7e63 traveled to the Entity: -6 HP, +7 days.",afraid,empathetic
+4,travel_to_entity,"Agent_b32fa traveled to the Entity: -9 HP, +9 days.",afraid,cautious
+4,travel_to_entity,"Agent_19c44 traveled to the Entity: -6 HP, +5 days.",anxious,empathetic
+4,travel_to_entity,"Agent_09019 traveled to the Entity: -9 HP, +5 days.",afraid,aggressive
+4,travel_to_entity,"Agent_9f46d traveled to the Entity: -8 HP, +8 days.",anxious,aggressive
+4,travel_to_entity,"Agent_b0cdc traveled to the Entity: -8 HP, +9 days.",anxious,aggressive
+4,travel_to_entity,"Agent_a1e8a traveled to the Entity: -6 HP, +8 days.",anxious,aggressive
+4,travel_to_entity,"Agent_9e158 traveled to the Entity: -9 HP, +10 days.",afraid,empathetic
+4,travel_to_entity,"Agent_fcca1 traveled to the Entity: -6 HP, +5 days.",afraid,curious
+4,travel_to_entity,"Agent_da3ff traveled to the Entity: -12 HP, +6 days.",anxious,empathetic
+4,entity_defense,Entity killed Agent_da3ff while defending herself.,N/A,N/A
+5,dialogue,"Agent_ba26e talks with Agent_1164b: ""Agent_ba26e: ""I know we're under threat from the Entity, but we can't let fear control us. We have to be ready to take action when the time comes.""""",afraid,cautious
+5,dialogue,"Agent_fcca1 talks with Agent_007b6: ""---""",afraid,curious
+5,dialogue,"Agent_c73dd talks with Agent_f5759: ""Agent_f5759: ""I don't know what to do. I've always thought the Entity was just a legend, but now I'm starting to believe her power is real.""""",afraid,cautious
+5,dialogue,"Agent_09019 talks with Agent_65c82: ""---""",hopeful,aggressive
+5,dialogue,"Agent_9f46d talks with Agent_6f7e7: ""---""",determined,aggressive
+5,dialogue,"Agent_ef8fa talks with Agent_742b1: ""---""",afraid,curious
+5,dialogue,"Agent_78e3e talks with Agent_e3fcf: ""Agent_78e3e: ""I'm afraid to leave the safety of my home. I'm worried I'll be erased by the Entity.""""",afraid,cautious
+5,dialogue,"Agent_86853 talks with Agent_c44a6: ""Agent_c44a6: ""Agent_86853, the Entity is coming. We need to come up with a plan to protect ourselves.""""",afraid,brave
+5,dialogue,"Agent_9e158 talks with Agent_2ad13: ""---""",determined,empathetic
+5,dialogue,"Agent_cca20 talks with Agent_bec91: ""Agent_cca20: ""I can't believe I'm already 42. It feels like yesterday when I started my service.""""",determined,curious
+5,dialogue,"Agent_c44a6 talks with Agent_a1e8a: ""Agent_c44a6: ""I hope you're not feeling as scared as I am right now.""""",afraid,cautious
+5,dialogue,"Agent_e957d talks with Agent_78e3e: ""Agent_e957d: ""I'm scared, Agent_78e3e. We're under threat, and we don't know how to escape.""""",afraid,cautious
+5,dialogue,"Agent_e7e63 talks with Agent_ac126: ""---""",determined,empathetic
+5,dialogue,"Agent_dc6cb talks with Agent_007b6: ""---""",anxious,curious
+5,dialogue,"Agent_1164b talks with Agent_cd3a2: ""---""",anxious,curious
+5,dialogue,"Agent_b3042 talks with Agent_d1876: ""Agent_b3042: Hey, d1876. I'm really scared about the Entity.""",afraid,curious
+5,dialogue,"Agent_e3113 talks with Agent_d1876: ""Agent_e3113: Hey Agent_d1876, how's it going?""",afraid,curious
+5,dialogue,"Agent_18dda talks with Agent_c44a6: ""Agent_18dda: Hello Agent c44a6. I've been thinking a lot about our situation. It's scary to know that the Entity is out there, waiting for us. We have to do something about this.
+Agent_c44a6: I know, Agent_18dda. It's hard not to worry, but we have to stay strong and keep living our lives. We can't let the Entity control us with fear.
+Agent_18dda: You're right, Agent_c44a6. We need to find a way to protect ourselves and our town. Maybe we could start by gathering more information about the""",afraid,curious
+5,dialogue,"Agent_5f8a9 talks with Agent_56048: ""---""",afraid,curious
+5,dialogue,"Agent_d1876 talks with Agent_a1e8a: ""---""",anxious,brave
+5,dialogue,"Agent_20512 talks with Agent_b32fa: ""---""",afraid,empathetic
+5,dialogue,"Agent_de986 talks with Agent_007b6: ""Agent_de986: ""Agent_007b6, the Entity is coming. I'm afraid. We need to prepare ourselves for a fight.""""",afraid,brave
+5,dialogue,"Agent_b32fa talks with Agent_f5759: ""Agent_b32fa: (stops walking and looks up at the sky) I can't believe this is happening. I've been a scientist for 50 years and now I'm going to die because of some stupid artist.
+Agent_f5759: (nods) I know, it's just so unfair. We've been working together for so long and we're still young enough to fight this.
+Agent_b32fa: (nods) But what can we do? The Entity is so powerful.
+Agent_f5759: (sighs) I've been thinking a lot about this. Maybe we can find a""",anxious,cautious
+5,dialogue,"Agent_56048 talks with Agent_9953f: ""Agent_56048: Agent_9953f, I'm really worried. I feel like we're running out of time to stop the Entity.""",anxious,curious
+5,dialogue,"Agent_2ad13 talks with Agent_b3042: ""---""",anxious,brave
+5,dialogue,"Agent_a1e8a talks with Agent_e957d: ""Agent_e957d: ""I'm really glad to see you today, Agent\_a1e8a. How are you feeling?""""",afraid,aggressive
+5,dialogue,"Agent_814e6 talks with Agent_1164b: ""---""",anxious,brave
+5,dialogue,"Agent_ac126 talks with Agent_1164b: ""---""",afraid,cautious
+5,dialogue,"Agent_e3fcf talks with Agent_e3113: ""---""",determined,empathetic
+5,dialogue,"Agent_19c44 talks with Agent_e3113: ""Agent_19c44: ""I'm afraid of the Entity. I've heard that they have killed thousands of people already, and they're getting younger each year.""
+Agent_e3113: ""I understand. I'm afraid too. But we must stay strong and hope for the best. We have each other for support, and we can't let fear control us.""
+Agent_19c44: ""It's hard not to be afraid. But I agree. We need to find a way to stop the Entity before it's too late.""
+Agent_e3113: ""I think we should start by gathering information. We""",afraid,empathetic
+5,dialogue,"Agent_007b6 talks with Agent_56048: ""---""",afraid,cautious
+5,dialogue,"Agent_f5759 talks with Agent_09019: ""Agent_f5759: ""I've been thinking... if we were to live in a world where no one is older than 80 years old, we'd be doomed. I'm so scared of the Entity. We have to find a way to stop her.""""",hopeful,brave
+5,dialogue,"Agent_b0cdc talks with Agent_c73dd: ""---""",afraid,aggressive
+5,dialogue,"Agent_cd3a2 talks with Agent_19c44: ""---""",determined,curious
+5,dialogue,"Agent_7077c talks with Agent_20512: ""---""",afraid,empathetic
+5,dialogue,"Agent_6f7e7 talks with Agent_7077c: ""---""",anxious,brave
+5,dialogue,"Agent_65c82 talks with Agent_e957d: ""---""",anxious,brave
+5,dialogue,"Agent_bec91 talks with Agent_b32fa: ""Agent_bec91: Hey Agent_b32fa, have you seen anything unusual around here lately?
+Agent_b32fa: Not really, Agent_bec91. But we've both heard rumors about the Entity.
+Agent_bec91: Yes, it's getting closer and closer. We need to be more vigilant.
+Agent_b32fa: Absolutely. But I'm still worried about our safety.
+Agent_bec91: Me too, but we can't let fear control us. We have to stay strong and focused.
+Agent_b32fa: I know, Agent_bec91. But how can we""",afraid,empathetic
+5,dialogue,"Agent_742b1 talks with Agent_d1876: ""---""",anxious,curious
+5,dialogue,"Agent_9953f talks with Agent_248d7: ""Agent_9953f: Hey, Agent_248d7. I'm really scared about the Entity.""",afraid,brave
+5,dialogue,"Agent_7d1ba talks with Agent_09019: ""---""",determined,curious
+5,dialogue,"Agent_248d7 talks with Agent_5f8a9: ""---""",afraid,cautious
+5,dialogue,"Agent_ba26e talks with Agent_e3fcf: ""---""",N/A,N/A
+5,intent,Agent_fcca1 is preparing to fight the Entity.,afraid,curious
+5,intent,Agent_c73dd is preparing to fight the Entity.,afraid,cautious
+5,dialogue,"Agent_09019 talks with Agent_7077c: ""---""",N/A,N/A
+5,dialogue,"Agent_9f46d talks with Agent_f5759: ""---""",N/A,N/A
+5,dialogue,"Agent_78e3e talks with Agent_f5759: ""Agent_78e3e: Agent_f5759, I'm so afraid. The Entity is coming for us.""",N/A,N/A
+5,training,"Agent_86853 trained in the village: +1 health, +0 attack, +1 defense.",determined,brave
+5,training,"Agent_9e158 trained in the village: +2 health, +1 attack, +1 defense.",determined,empathetic
+5,intent,Agent_c44a6 is preparing to fight the Entity.,afraid,cautious
+5,training,"Agent_e7e63 trained in the village: +1 health, +1 attack, +0 defense.",determined,empathetic
+5,rest,Agent_dc6cb took time to rest and feels more at peace.,calm,curious
+5,rest,Agent_1164b took time to rest and feels more at peace.,calm,curious
+5,training,"Agent_b3042 trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+5,dialogue,"Agent_e3113 talks with Agent_1164b: ""---""",N/A,N/A
+5,training,"Agent_18dda trained in the village: +1 health, +1 attack, +0 defense.",determined,curious
+5,training,"Agent_5f8a9 trained in the village: +2 health, +0 attack, +1 defense.",determined,curious
+5,training,"Agent_d1876 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+5,training,"Agent_20512 trained in the village: +1 health, +1 attack, +1 defense.",determined,empathetic
+5,intent,Agent_de986 is preparing to fight the Entity.,afraid,brave
+5,intent,Agent_56048 is preparing to fight the Entity.,anxious,curious
+5,training,"Agent_2ad13 trained in the village: +1 health, +0 attack, +1 defense.",determined,brave
+5,training,"Agent_a1e8a trained in the village: +2 health, +0 attack, +0 defense.",determined,aggressive
+5,training,"Agent_814e6 trained in the village: +2 health, +0 attack, +1 defense.",determined,brave
+5,training,"Agent_ac126 trained in the village: +2 health, +0 attack, +0 defense.",determined,cautious
+5,rest,Agent_e3fcf took time to rest and feels more at peace.,determined,empathetic
+5,intent,Agent_19c44 is preparing to fight the Entity.,afraid,empathetic
+5,training,"Agent_007b6 trained in the village: +2 health, +0 attack, +1 defense.",determined,cautious
+5,training,"Agent_f5759 trained in the village: +1 health, +0 attack, +1 defense.",hopeful,brave
+5,training,"Agent_b0cdc trained in the village: +1 health, +1 attack, +0 defense.",determined,aggressive
+5,training,"Agent_cd3a2 trained in the village: +1 health, +1 attack, +1 defense.",determined,curious
+5,intent,Agent_7077c is preparing to fight the Entity.,afraid,empathetic
+5,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+5,training,"Agent_65c82 trained in the village: +1 health, +0 attack, +0 defense.",determined,brave
+5,training,"Agent_bec91 trained in the village: +2 health, +1 attack, +1 defense.",determined,empathetic
+5,training,"Agent_742b1 trained in the village: +2 health, +1 attack, +0 defense.",determined,curious
+5,intent,Agent_7d1ba is preparing to fight the Entity.,determined,curious
+5,intent,Agent_248d7 is preparing to fight the Entity.,afraid,cautious
+5,pregnancy,Agent_9f46d got pregnant from Agent_20512.,N/A,N/A
+5,entity_attack,Entity killed Agent_9f46d while defending herself.,N/A,N/A
+5,travel_to_entity,"Agent_c73dd traveled to the Entity: -6 HP, +9 days.",anxious,cautious
+5,travel_to_entity,"Agent_e957d traveled to the Entity: -12 HP, +7 days.",afraid,cautious
+5,travel_to_entity,"Agent_56048 traveled to the Entity: -13 HP, +7 days.",afraid,curious
+5,travel_to_entity,"Agent_6f7e7 traveled to the Entity: -12 HP, +5 days.",afraid,brave
+5,travel_to_entity,"Agent_65c82 traveled to the Entity: -6 HP, +7 days.",anxious,brave
+5,travel_to_entity,"Agent_248d7 traveled to the Entity: -15 HP, +7 days.",anxious,cautious
+5,entity_defense,Entity killed Agent_56048 while defending herself.,N/A,N/A
+6,dialogue,"Agent_7077c talks with Agent_18dda: ""Agent_7077c: ""I'm feeling anxious today, Agent_18dda. The Entity is getting closer and closer, and I'm worried about our survival.""""",anxious,empathetic
+6,dialogue,"Agent_e7e63 talks with Agent_f5759: ""---""",afraid,empathetic
+6,dialogue,"Agent_f5759 talks with Agent_e3fcf: ""Agent_f5759: I can't help but feel a sense of dread every time I see the old folks around town.
+Agent_e3fcf: Same, but we can't give in to fear. We need to protect those who can't protect themselves.
+Agent_f5759: I know, but it's hard not to feel like we're fighting a losing battle.
+Agent_e3fcf: We're not alone. We have each other, and we'll find a way to survive this.
+Agent_f5759: I hope so. I just don't know how much longer we can hold on.
+Agent_""",afraid,brave
+6,dialogue,"Agent_e3113 talks with Agent_c73dd: ""Agent_e3113: ""Agent c73dd, how are you doing today?""""",anxious,curious
+6,dialogue,"Agent_18dda talks with Agent_e3113: ""---""",afraid,curious
+6,dialogue,"Agent_cd3a2 talks with Agent_2ad13: ""Agent_cd3a2: (smiling) Hey Agent_2ad13! Hope you're doing well.
+Agent_2ad13: (smiling back) Hello Agent_cd3a2! I'm doing well, thank you. How about you?
+Agent_cd3a2: (thoughtfully) Honestly, I'm a bit scared. The Entity is getting closer and closer, and we have to figure out a way to survive.
+Agent_2ad13: (nodding) Yeah, I understand. But we can't give up hope. We have to believe that there's a way to stop the Entity and save our town.""",afraid,curious
+6,dialogue,"Agent_d1876 talks with Agent_f5759: ""---""",afraid,brave
+6,dialogue,"Agent_a1e8a talks with Agent_814e6: ""Agent_a1e8a: ""Agent 814e6, what's your plan to survive the Entity?""""",anxious,aggressive
+6,dialogue,"Agent_6f7e7 talks with Agent_1164b: ""---""",determined,brave
+6,dialogue,"Agent_dc6cb talks with Agent_09019: ""---""",anxious,curious
+6,dialogue,"Agent_de986 talks with Agent_248d7: ""Agent_de986: ""I'm worried. If the Entity continues on this path, soon we'll all be gone. What can we do?""""",anxious,brave
+6,dialogue,"Agent_1164b talks with Agent_6f7e7: ""Agent_1164b: Hey Agent_6f7e7, I've been thinking a lot about the Entity lately. It's getting harder and harder to feel safe here.""",determined,curious
+6,dialogue,"Agent_e3fcf talks with Agent_ef8fa: ""The Entity is coming""",anxious,empathetic
+6,dialogue,"Agent_fcca1 talks with Agent_09019: ""---""",afraid,curious
+6,dialogue,"Agent_cca20 talks with Agent_814e6: ""Agent_cca20: ""We've been told that we're at risk of erasure. The Entity is getting closer each year. I'm starting to fear for my own existence.""""",afraid,curious
+6,dialogue,"Agent_007b6 talks with Agent_b0cdc: ""---""",anxious,cautious
+6,dialogue,"Agent_b32fa talks with Agent_e7e63: ""---""",anxious,cautious
+6,dialogue,"Agent_86853 talks with Agent_19c44: ""---""",anxious,brave
+6,dialogue,"Agent_9953f talks with Agent_814e6: ""Agent_9953f: Hello Agent 814e6, I hope you're doing well.""",anxious,brave
+6,dialogue,"Agent_5f8a9 talks with Agent_e3fcf: ""---""",determined,curious
+6,dialogue,"Agent_b0cdc talks with Agent_ba26e: ""Agent_b0cdc: Hey Agent_ba26e, I was thinking about our current situation.""",anxious,aggressive
+6,dialogue,"Agent_ac126 talks with Agent_bec91: ""---""",anxious,cautious
+6,dialogue,"Agent_20512 talks with Agent_de986: ""---""",anxious,empathetic
+6,dialogue,"Agent_09019 talks with Agent_cca20: ""Agent_09019: ""We've got to stop this Entity before it's too late. I don't want to be erased from existence.""""",determined,aggressive
+6,dialogue,"Agent_742b1 talks with Agent_18dda: ""Agent_742b1: Hey Agent_18dda, how are you doing?
+Agent_18dda: Honestly, I'm not sure. With the Entity coming, it feels like we're running out of time.
+Agent_742b1: I know it's scary. But we have to keep hope alive. We need to come up with a plan to survive.
+Agent_18dda: I'm with you. But what can we do? We're just two people.
+Agent_742b1: We may not be able to change the world on our own, but we can change our own world. Let's""",anxious,curious
+6,dialogue,"Agent_78e3e talks with Agent_e3fcf: ""---""",anxious,cautious
+6,dialogue,"Agent_9e158 talks with Agent_de986: ""---""",afraid,empathetic
+6,dialogue,"Agent_ba26e talks with Agent_cd3a2: ""---""",afraid,cautious
+6,dialogue,"Agent_2ad13 talks with Agent_c44a6: ""Agent_2ad13: We need to find a way out of this town before it's too late. The Entity is getting closer, and we don't have much time left.""",afraid,brave
+6,dialogue,"Agent_e957d talks with Agent_ef8fa: ""Agent_e957d: ""I've been thinking a lot lately. We can't just sit back and wait for the Entity to come for us. We have to do something.""""",anxious,cautious
+6,dialogue,"Agent_19c44 talks with Agent_e3113: ""Agent_19c44: ""Hey, Agent_e3113, have you heard of the Entity?""""",anxious,empathetic
+6,dialogue,"Agent_b3042 talks with Agent_65c82: ""---""",anxious,curious
+6,dialogue,"Agent_c44a6 talks with Agent_20512: ""Agent_c44a6: Hey, 20512, have you noticed anything strange lately?""",afraid,cautious
+6,dialogue,"Agent_bec91 talks with Agent_65c82: ""Agent_bec91: ""It's getting harder to keep track of the remaining population. Every year, one more person dies to the Entity.""""",afraid,empathetic
+6,dialogue,"Agent_814e6 talks with Agent_18dda: ""---""",anxious,brave
+6,dialogue,"Agent_ef8fa talks with Agent_a1e8a: ""Agent_ef8fa: ""I don't know what to do. I'm so scared.""
+Agent_a1e8a: ""I know, I'm scared too. But we have to do something. We can't just sit here and watch as people die.""
+Agent_ef8fa: ""I don't know what we can do. I don't even know how to fight.""
+Agent_a1e8a: ""We don't have to fight. We just need to find a way to survive. We can try to gather information, find resources, and maybe even find a way to stop the Entity.""
+Agent_ef8fa: ""But how""",afraid,curious
+6,dialogue,"Agent_7d1ba talks with Agent_c44a6: ""Agent_7d1ba: ""Hey Agent_c44a6, have you heard anything about the Entity?""""",afraid,curious
+6,dialogue,"Agent_248d7 talks with Agent_9953f: ""---""",afraid,cautious
+6,dialogue,"Agent_65c82 talks with Agent_e957d: ""---""",anxious,brave
+6,dialogue,"Agent_c73dd talks with Agent_742b1: ""Agent_c73dd: Hey 742b1. How's it going?
+Agent_742b1: Hey c73dd. Honestly, not great. I'm really worried about the Entity.
+Agent_c73dd: Yeah, me too. We can't let this thing get us. We have to be careful.
+Agent_742b1: But how? We're just two agents. What can we do?
+Agent_c73dd: We need to figure out a plan. Maybe we can gather some information and try to find a way to stop the Entity.
+Agent_742b1: That""",anxious,cautious
+6,training,"Agent_7077c trained in the village: +2 health, +1 attack, +1 defense.",determined,empathetic
+6,training,"Agent_e7e63 trained in the village: +1 health, +0 attack, +1 defense.",determined,empathetic
+6,rest,Agent_f5759 took time to rest and feels more at peace.,calm,brave
+6,intent,Agent_18dda is preparing to fight the Entity.,afraid,curious
+6,dialogue,"Agent_cd3a2 talks with Agent_86853: ""Agent_cd3a2: Hey, Agent_86853. I heard about the Entity. Is she really deadly?""",N/A,N/A
+6,training,"Agent_d1876 trained in the village: +2 health, +1 attack, +1 defense.",determined,brave
+6,training,"Agent_a1e8a trained in the village: +2 health, +0 attack, +1 defense.",determined,aggressive
+6,rest,Agent_6f7e7 took time to rest and feels more at peace.,determined,brave
+6,dialogue,"Agent_dc6cb talks with Agent_d1876: ""Agent_dc6cb: Hey, Agent_d1876. I've been thinking a lot about the Entity lately.""",N/A,N/A
+6,intent,Agent_de986 is preparing to fight the Entity.,anxious,brave
+6,rest,Agent_1164b took time to rest and feels more at peace.,determined,curious
+6,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+6,intent,Agent_fcca1 is preparing to fight the Entity.,afraid,curious
+6,dialogue,"Agent_b32fa talks with Agent_ac126: ""Agent_b32fa: ""I'm worried about the Entity. I've been seeing more and more people dying.""
+Agent_ac126: ""I know. I've been counting. It's been two years since I last saw someone die.""
+Agent_b32fa: ""I'm glad to hear that, but it's not enough. We need to find a way to stop the Entity.""
+Agent_ac126: ""I know. I've been trying to figure out a way to do that. Maybe we can use our scientific knowledge to come up with a solution.""
+Agent_b32fa: ""That's a""",N/A,N/A
+6,rest,Agent_86853 took time to rest and feels more at peace.,calm,brave
+6,intent,Agent_9953f is preparing to fight the Entity.,anxious,brave
+6,rest,Agent_5f8a9 took time to rest and feels more at peace.,determined,curious
+6,training,"Agent_b0cdc trained in the village: +1 health, +1 attack, +0 defense.",determined,aggressive
+6,training,"Agent_ac126 trained in the village: +1 health, +1 attack, +1 defense.",determined,cautious
+6,training,"Agent_09019 trained in the village: +1 health, +0 attack, +0 defense.",determined,aggressive
+6,dialogue,"Agent_742b1 talks with Agent_007b6: ""---""",N/A,N/A
+6,training,"Agent_78e3e trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+6,training,"Agent_9e158 trained in the village: +1 health, +1 attack, +1 defense.",determined,empathetic
+6,training,"Agent_ba26e trained in the village: +2 health, +1 attack, +1 defense.",determined,cautious
+6,dialogue,"Agent_2ad13 talks with Agent_cca20: ""Agent_2ad13: (brave) I'm afraid.""",N/A,N/A
+6,training,"Agent_19c44 trained in the village: +1 health, +0 attack, +1 defense.",determined,empathetic
+6,training,"Agent_b3042 trained in the village: +1 health, +1 attack, +1 defense.",determined,curious
+6,training,"Agent_bec91 trained in the village: +1 health, +1 attack, +0 defense.",determined,empathetic
+6,training,"Agent_814e6 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+6,training,"Agent_7d1ba trained in the village: +2 health, +0 attack, +0 defense.",determined,curious
+6,training,"Agent_248d7 trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+6,training,"Agent_65c82 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+6,intent,Agent_c73dd is preparing to fight the Entity.,anxious,cautious
+6,pregnancy,Agent_c73dd got pregnant from Agent_ef8fa.,N/A,N/A
+6,entity_attack,Entity killed Agent_814e6 while defending herself.,N/A,N/A
+6,travel_to_entity,"Agent_7077c traveled to the Entity: -8 HP, +6 days.",anxious,empathetic
+6,travel_to_entity,"Agent_a1e8a traveled to the Entity: -13 HP, +6 days.",anxious,aggressive
+6,travel_to_entity,"Agent_de986 traveled to the Entity: -15 HP, +9 days.",anxious,brave
+6,travel_to_entity,"Agent_fcca1 traveled to the Entity: -11 HP, +6 days.",anxious,curious
+6,travel_to_entity,"Agent_09019 traveled to the Entity: -12 HP, +10 days.",anxious,aggressive
+6,travel_to_entity,"Agent_9e158 traveled to the Entity: -15 HP, +8 days.",afraid,empathetic
+6,travel_to_entity,"Agent_ef8fa traveled to the Entity: -8 HP, +6 days.",anxious,curious
+6,travel_to_entity,"Agent_c73dd traveled to the Entity: -9 HP, +8 days.",afraid,cautious
+6,entity_defense,Entity killed Agent_ef8fa while defending herself.,N/A,N/A
+7,dialogue,"Agent_5f8a9 talks with Agent_c73dd: ""---""",determined,curious
+7,dialogue,"Agent_2ad13 talks with Agent_e3113: ""---""",determined,brave
+7,dialogue,"Agent_e3fcf talks with Agent_fcca1: ""Agent_e3fcf: (anxiously) We must do something. The Entity is getting closer.
+Agent_fcca1: (nodding) I know. But what can we do? We can't change the course of the Entity's actions.
+Agent_e3fcf: (frustrated) But we can't just sit here and watch as more and more people are erased.
+Agent_fcca1: (sympathetically) I understand your concern, but we must be realistic. There are no guarantees in life.
+Agent_e3fcf: (determined) But we can't give up hope. We have to""",anxious,empathetic
+7,dialogue,"Agent_b32fa talks with Agent_9e158: ""---""",anxious,cautious
+7,dialogue,"Agent_20512 talks with Agent_a1e8a: ""Agent_20512: (looking around nervously) I can't believe it's already 20512. The Entity is getting closer and closer.
+Agent_a1e8a: (nodding) I know, it's such a scary time. But we have each other, and that's what counts.
+Agent_20512: (looking at their hands) But what if the Entity gets to us before we can do anything? What if we die?
+Agent_a1e8a: (taking a deep breath) We won't let that happen. We'll find a way to survive.
+Agent_2""",anxious,empathetic
+7,dialogue,"Agent_e3113 talks with Agent_86853: ""Agent_e3113: ""Listen, Agent_86853, I heard something strange. A rumor that the Entity has a weakness. We should investigate.""""",determined,curious
+7,dialogue,"Agent_19c44 talks with Agent_9953f: ""---""",determined,empathetic
+7,dialogue,"Agent_9e158 talks with Agent_ba26e: ""---""",anxious,empathetic
+7,dialogue,"Agent_a1e8a talks with Agent_65c82: ""Agent_65c82: ""What are we going to do? The Entity is getting closer and closer every year. We need to find a way to stop her.""""",afraid,aggressive
+7,dialogue,"Agent_d1876 talks with Agent_18dda: ""Agent_d1876: Hey Agent_18dda, how's it going?
+Agent_18dda: Honestly, not great. I've been getting more and more nervous lately.
+Agent_d1876: I can understand that. The Entity is a real threat.
+Agent_18dda: I know. But I have hope. I believe that if we keep working together, we can find a way to defeat her.
+Agent_d1876: I share your optimism. We both have the same goal – survival.
+Agent_18dda: Yes, and we are both scientists. We are in a better position to""",anxious,brave
+7,dialogue,"Agent_f5759 talks with Agent_5f8a9: ""Agent_f5759: ""We are doomed. The Entity will kill us all soon. I am afraid.""
+Agent_5f8a9: ""Don't be afraid. We must fight back.""
+Agent_f5759: ""How? We have no weapons or skills. We are just soldiers.""
+Agent_5f8a9: ""We have each other. We can work together to find a way out.""
+Agent_f5759: ""But what if we fail? What if we can't escape the Entity?""
+Agent_5f8a9: ""We won't fail. We will find a solution. We must""",afraid,brave
+7,dialogue,"Agent_cca20 talks with Agent_d1876: ""Agent_cca20: I can't believe it. We're all gonna die.
+Agent_d1876: We can't give up. We have to find a way to survive.
+Agent_cca20: But what can we do? The Entity erases everyone who's 100 years old or more.
+Agent_d1876: We can try to find out if there's any way to slow down the erasure process. Maybe we can find a way to delay it.
+Agent_cca20: That's a good idea. But how do we find out?
+Agent_d1876: We could try to""",afraid,curious
+7,dialogue,"Agent_86853 talks with Agent_65c82: ""---""",afraid,brave
+7,dialogue,"Agent_742b1 talks with Agent_d1876: ""---""",anxious,curious
+7,dialogue,"Agent_de986 talks with Agent_007b6: ""---""",anxious,brave
+7,dialogue,"Agent_c73dd talks with Agent_dc6cb: ""Agent_c73dd: ""I'm feeling so anxious today. I can't help but think about the Entity and how she's slowly erasing our existence. What are we supposed to do? We can't just sit around and wait for her to come for us.""""",anxious,cautious
+7,dialogue,"Agent_cd3a2 talks with Agent_86853: ""---""",afraid,curious
+7,dialogue,"Agent_9953f talks with Agent_19c44: ""Agent_9953f: Agent_19c44, I'm so glad you're here. With the Entity's threat, I don't know what we're going to do.
+Agent_19c44: We'll figure it out together, Agent_9953f. We have time.
+Agent_9953f: Time? It's getting harder to stay hopeful every day.
+Agent_19c44: I know it is, Agent_9953f. But we have to be hopeful. We have to believe that we can survive this.
+Agent_9953f: But""",hopeful,brave
+7,dialogue,"Agent_7077c talks with Agent_20512: ""---""",anxious,empathetic
+7,dialogue,"Agent_e7e63 talks with Agent_c73dd: ""Agent_e7e63: ""I'm so sorry to hear that the Entity is back again. I was worried about you, Agent_c73dd.""""",anxious,empathetic
+7,dialogue,"Agent_b0cdc talks with Agent_bec91: ""Agent_b0cdc:
+I have a bad feeling today. Something about the Entity is different.""",anxious,aggressive
+7,dialogue,"Agent_1164b talks with Agent_20512: ""Agent_1164b: Hey, Agent_20512!""",anxious,curious
+7,dialogue,"Agent_ac126 talks with Agent_20512: ""---""",anxious,cautious
+7,dialogue,"Agent_007b6 talks with Agent_7d1ba: ""---""",determined,cautious
+7,dialogue,"Agent_248d7 talks with Agent_cd3a2: ""---""",afraid,cautious
+7,dialogue,"Agent_fcca1 talks with Agent_c44a6: ""---""",afraid,curious
+7,dialogue,"Agent_e957d talks with Agent_78e3e: ""---""",afraid,cautious
+7,dialogue,"Agent_78e3e talks with Agent_86853: ""Agent_78e3e: I don't know what to do anymore. I'm so scared of dying. I'm scared of the Entity.""",afraid,cautious
+7,dialogue,"Agent_ba26e talks with Agent_6f7e7: ""Agent_ba26e: ""We have to leave immediately. The Entity is closing in.""
+Agent_6f7e7: ""We can't just run away. We need to do something to stop her.""
+Agent_ba26e: ""I know, but we don't have much time. We'll have to be strategic.""
+Agent_6f7e7: ""What can we do? We're just two people.""
+Agent_ba26e: ""We can gather resources, fortify our home, and come up with a plan. We need to be cautious, but we can't let fear hold us back.""
+Agent_6f7""",hopeful,cautious
+7,dialogue,"Agent_dc6cb talks with Agent_c44a6: ""---""",determined,curious
+7,dialogue,"Agent_7d1ba talks with Agent_e957d: ""---""",anxious,curious
+7,dialogue,"Agent_bec91 talks with Agent_7d1ba: ""Agent_bec91: Good morning. I am Agent_bec91. I trust you know who I am.
+Agent_7d1ba: Of course, I do. I am Agent_7d1ba. And I know what you mean by the Entity.
+Agent_bec91: Yes, I fear for our lives and the lives of everyone else in this town. We must find a way to stop the Entity.
+Agent_7d1ba: I agree. The Entity has been erasing people for years now. It's only a matter of time before we are all gone.
+Agent_bec91: We need to be strategic. We cannot just""",afraid,empathetic
+7,dialogue,"Agent_b3042 talks with Agent_248d7: ""---""",anxious,curious
+7,dialogue,"Agent_09019 talks with Agent_cd3a2: ""---""",afraid,aggressive
+7,dialogue,"Agent_18dda talks with Agent_7d1ba: ""Agent_18dda:
+""Hello, I'm Agent 18dda. I've been following your work and I'm really scared of the Entity. She's going to erase everyone over 100 years old, and it's already gotten up to 10012 people. We need to figure out how to survive.""""",afraid,curious
+7,dialogue,"Agent_c44a6 talks with Agent_b3042: ""Agent_c44a6: ""Hey Agent_b3042, I was just thinking about our current situation. The Entity is becoming more aggressive, and with each passing year, the age threshold is decreasing. We can't afford to take any chances.""""",anxious,cautious
+7,dialogue,"Agent_65c82 talks with Agent_c73dd: ""---""",anxious,brave
+7,dialogue,"Agent_6f7e7 talks with Agent_de986: ""---""",anxious,brave
+7,training,"Agent_2ad13 trained in the village: +2 health, +1 attack, +1 defense.",determined,brave
+7,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+7,rest,Agent_b32fa took time to rest and feels more at peace.,calm,cautious
+7,rest,Agent_e3113 took time to rest and feels more at peace.,determined,curious
+7,training,"Agent_19c44 trained in the village: +1 health, +1 attack, +0 defense.",determined,empathetic
+7,intent,Agent_9e158 is preparing to fight the Entity.,anxious,empathetic
+7,training,"Agent_a1e8a trained in the village: +1 health, +0 attack, +1 defense.",determined,aggressive
+7,training,"Agent_d1876 trained in the village: +1 health, +1 attack, +0 defense.",determined,brave
+7,training,"Agent_f5759 trained in the village: +1 health, +0 attack, +1 defense.",determined,brave
+7,rest,Agent_cca20 took time to rest and feels more at peace.,calm,curious
+7,dialogue,"Agent_86853 talks with Agent_de986: ""Agent_86853: de986, have you ever heard of the Entity?
+Agent_de986: Yes, I have heard of it. It erases everyone who is at least 100 years old.
+Agent_86853: That's terrifying. I'm afraid I'll be erased soon.
+Agent_de986: Me too. But we have to keep living and hope for something.
+Agent_86853: I don't know what we can do.
+Agent_de986: We can work together and find a way to survive. Maybe we can find a solution to the P""",N/A,N/A
+7,rest,Agent_742b1 took time to rest and feels more at peace.,calm,curious
+7,training,"Agent_de986 trained in the village: +1 health, +0 attack, +0 defense.",determined,brave
+7,training,"Agent_c73dd trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+7,dialogue,"Agent_cd3a2 talks with Agent_e957d: ""Agent_cd3a2: ""I'm so scared, Agent. I don't know what to do. We have to stop the Entity before it's too late.""""",N/A,N/A
+7,intent,Agent_9953f is preparing to fight the Entity.,hopeful,brave
+7,training,"Agent_7077c trained in the village: +2 health, +1 attack, +0 defense.",determined,empathetic
+7,training,"Agent_e7e63 trained in the village: +1 health, +0 attack, +0 defense.",determined,empathetic
+7,training,"Agent_b0cdc trained in the village: +1 health, +0 attack, +0 defense.",determined,aggressive
+7,rest,Agent_1164b took time to rest and feels more at peace.,calm,curious
+7,training,"Agent_ac126 trained in the village: +2 health, +1 attack, +1 defense.",determined,cautious
+7,dialogue,"Agent_007b6 talks with Agent_e7e63: ""---""",N/A,N/A
+7,intent,Agent_248d7 is preparing to fight the Entity.,afraid,cautious
+7,training,"Agent_fcca1 trained in the village: +1 health, +0 attack, +0 defense.",determined,curious
+7,intent,Agent_e957d is preparing to fight the Entity.,afraid,cautious
+7,training,"Agent_78e3e trained in the village: +2 health, +0 attack, +0 defense.",determined,cautious
+7,dialogue,"Agent_ba26e talks with Agent_de986: ""---""",N/A,N/A
+7,dialogue,"Agent_dc6cb talks with Agent_742b1: ""Agent_dc6cb: Agent_742b1, I'm scared. I don't know what we're going to do.
+Agent_742b1: It's okay, Agent_dc6cb. We have to trust that the Entity won't come for us yet.
+Agent_dc6cb: But what if she does? What if we're not lucky this time?
+Agent_742b1: We'll be ready. We'll work together, and we'll come up with a plan.
+Agent_dc6cb: What kind of plan?
+Agent_742b1: We need to find a way""",N/A,N/A
+7,intent,Agent_7d1ba is preparing to fight the Entity.,anxious,curious
+7,training,"Agent_bec91 trained in the village: +1 health, +1 attack, +1 defense.",determined,empathetic
+7,intent,Agent_b3042 is preparing to fight the Entity.,anxious,curious
+7,dialogue,"Agent_09019 talks with Agent_ac126: ""Agent_09019: Hey, Agent_ac126, I heard the Entity is coming again this year.
+Agent_ac126: Yeah, I saw it on the news. This time, she's targeting everyone who's at least 90 years old.
+Agent_09019: That's really bad, Agent_ac126. I'm afraid for my life.
+Agent_ac126: Me too, Agent_09019. But we have to stay strong and keep fighting. We have to find a way to survive.
+Agent_09019: I agree, Agent_ac1""",N/A,N/A
+7,training,"Agent_18dda trained in the village: +2 health, +0 attack, +0 defense.",determined,curious
+7,training,"Agent_c44a6 trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+7,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+7,pregnancy,Agent_09019 got pregnant from Agent_20512.,N/A,N/A
+7,entity_attack,Entity killed Agent_007b6 while defending herself.,N/A,N/A
+7,travel_to_entity,"Agent_5f8a9 traveled to the Entity: -14 HP, +8 days.",anxious,curious
+7,travel_to_entity,"Agent_9953f traveled to the Entity: -13 HP, +8 days.",anxious,brave
+7,travel_to_entity,"Agent_7077c traveled to the Entity: -13 HP, +6 days.",anxious,empathetic
+7,travel_to_entity,"Agent_bec91 traveled to the Entity: -5 HP, +8 days.",anxious,empathetic
+7,entity_defense,Entity killed Agent_9953f while defending herself.,N/A,N/A
+8,dialogue,"Agent_b3042 talks with Agent_d1876: ""---""",determined,curious
+8,dialogue,"Agent_c73dd talks with Agent_ba26e: ""---""",anxious,cautious
+8,dialogue,"Agent_248d7 talks with Agent_d1876: ""Agent_248d7: ""I'm still not sure if we can defeat the Entity. She's too powerful. She can erase anyone over a certain age, and each year the threshold gets lower. I fear that soon, no one will be safe.""""",afraid,cautious
+8,dialogue,"Agent_9e158 talks with Agent_20512: ""Agent_9e158: ""Hello, Agent_20512. I hope you're well. I'm worried about the Entity.""""",hopeful,empathetic
+8,dialogue,"Agent_1164b talks with Agent_9e158: ""Agent_1164b:
+I don't know what we're going to do. The Entity is getting closer and closer, and there's nothing we can do to stop her.""",hopeful,curious
+8,dialogue,"Agent_e7e63 talks with Agent_1164b: ""Agent_e7e63: Hello, Agent_1164b. How are you doing?
+Agent_1164b: I'm doing well, Agent_e7e63. The town is safe, and we're doing our best to protect everyone.
+Agent_e7e63: I know, but it's getting harder each year. The Entity is getting closer, and more people are dying.
+Agent_1164b: Yes, it's a scary time for us. But we need to stay strong and keep working together.
+Agent_e7e63: Absolutely. We need to find a way to stop the P""",hopeful,empathetic
+8,dialogue,"Agent_de986 talks with Agent_c73dd: ""Agent_de986: ""I know we have to work together to survive. The Entity threatens us all, and we can't afford to let fear get the better of us.""""",afraid,brave
+8,dialogue,"Agent_7d1ba talks with Agent_a1e8a: ""Agent_7d1ba: Hey, Agent_a1e8a, I was just thinking about the Entity. I'm scared.
+Agent_a1e8a: I know it's scary, Agent_7d1ba. But we have to keep fighting.
+Agent_7d1ba: I've been trying to figure out how we can survive. Maybe if we could find a way to slow down the Entity, we could buy ourselves some time.
+Agent_a1e8a: That's a good idea. We should work together to find a solution.
+Agent_7d1ba: I trust you, Agent_a1e8a.""",afraid,curious
+8,dialogue,"Agent_b0cdc talks with Agent_ba26e: ""---""",anxious,aggressive
+8,dialogue,"Agent_86853 talks with Agent_de986: ""Agent_86853: ""Hey there, Agent de986. How are you feeling today?""
+Agent_de986: ""I'm doing well, Agent 86853. I'm scared to think about the Entity, but I'm also hopeful that we can find a way to stop her. How about you?""
+Agent_86853: ""I'm feeling the same way. I'm scared for our town and the people we care about. But I'm also hopeful that we can find a way to protect ourselves and keep our lives safe. I think it's important to stay vigilant and be prepared for anything""",afraid,brave
+8,dialogue,"Agent_e957d talks with Agent_b32fa: ""Agent_e957d: ""I can't believe it's been a year. I've seen so many people disappear, it's starting to take a toll on me.""""",anxious,cautious
+8,dialogue,"Agent_7077c talks with Agent_19c44: ""---""",anxious,empathetic
+8,dialogue,"Agent_a1e8a talks with Agent_20512: ""Agent_a1e8a: (anxiously) What do we do now? We're running out of time.
+Agent_20512: (serious) We need to stay calm and come up with a plan.
+Agent_a1e8a: (hesitant) But how can we protect ourselves from the Entity?
+Agent_20512: (logical) We can't control what the Entity can do, but we can control how we react to it.
+Agent_a1e8a: (anxiously) But what if we're not enough? What if we die?
+Agent_20512""",anxious,aggressive
+8,dialogue,"Agent_c44a6 talks with Agent_ba26e: ""Agent_c44a6: ""I can't sleep. I'm so scared. I keep thinking of what will happen if we can't stop the Entity.""""",afraid,cautious
+8,dialogue,"Agent_6f7e7 talks with Agent_18dda: ""Agent_6f7e7: ""I'm so scared of the Entity. I feel like we're running out of time.""""",afraid,brave
+8,dialogue,"Agent_20512 talks with Agent_c73dd: ""---""",determined,empathetic
+8,dialogue,"Agent_2ad13 talks with Agent_c73dd: ""---""",anxious,brave
+8,dialogue,"Agent_742b1 talks with Agent_5f8a9: ""---""",hopeful,curious
+8,dialogue,"Agent_ac126 talks with Agent_cd3a2: ""---""",afraid,cautious
+8,dialogue,"Agent_5f8a9 talks with Agent_19c44: ""---""",anxious,curious
+8,dialogue,"Agent_09019 talks with Agent_b3042: ""Agent_09019: ""I'm afraid to leave my home. I don't want to die to the Entity.""""",afraid,aggressive
+8,dialogue,"Agent_b32fa talks with Agent_dc6cb: ""Agent_b32fa: ""Agent_dc6cb, what if we're not the only ones? What if there are others like us? We need to find them, and fast.""""",determined,cautious
+8,dialogue,"Agent_f5759 talks with Agent_742b1: ""Agent_f5759: We need to get out of here.
+Agent_742b1: I know, but where?
+Agent_f5759: Anywhere but here. We're going to die soon.
+Agent_742b1: Yeah, we're all going to die eventually. It's just a matter of time.
+Agent_f5759: I don't want to die. I want to live.
+Agent_742b1: Me too. But we can't just run. We need a plan.
+Agent_f5759: What kind of plan?
+Agent_742b""",hopeful,brave
+8,dialogue,"Agent_19c44 talks with Agent_742b1: ""Agent_19c44: Agent 742b1, do you think the Entity is getting closer?""",hopeful,empathetic
+8,dialogue,"Agent_65c82 talks with Agent_ac126: ""---""",afraid,brave
+8,dialogue,"Agent_dc6cb talks with Agent_f5759: ""---""",hopeful,curious
+8,dialogue,"Agent_bec91 talks with Agent_f5759: ""Agent_bec91: Hey Agent_f5759, do you think we have enough time left to find a solution?""",hopeful,empathetic
+8,dialogue,"Agent_78e3e talks with Agent_e7e63: ""---""",hopeful,cautious
+8,dialogue,"Agent_e3fcf talks with Agent_09019: ""---""",anxious,empathetic
+8,dialogue,"Agent_18dda talks with Agent_ac126: ""---""",afraid,curious
+8,dialogue,"Agent_e3113 talks with Agent_86853: ""---""",anxious,curious
+8,dialogue,"Agent_ba26e talks with Agent_78e3e: ""---""",hopeful,cautious
+8,dialogue,"Agent_d1876 talks with Agent_b3042: ""Agent_d1876: Agent_b3042, we need to talk. I'm getting more and more afraid every day.
+Agent_b3042: Me too, Agent_d1876. It's hard to think about anything else but the Entity.
+Agent_d1876: I know. I've been trying to come up with a plan to protect myself, but I don't know where to start.
+Agent_b3042: That's understandable. It's hard to think about survival when we're under such a constant threat.
+Agent_d1876: But we have to""",afraid,brave
+8,dialogue,"Agent_fcca1 talks with Agent_e957d: ""Agent_fcca1: ""Hey Agent_e957d, I'm Agent_fcca1. Have you heard anything about the Entity lately?""""",afraid,curious
+8,dialogue,"Agent_cd3a2 talks with Agent_86853: ""---""",anxious,curious
+8,dialogue,"Agent_cca20 talks with Agent_a1e8a: ""---""",anxious,curious
+8,intent,Agent_b3042 is preparing to fight the Entity.,determined,curious
+8,intent,Agent_c73dd is preparing to fight the Entity.,anxious,cautious
+8,training,"Agent_248d7 trained in the village: +1 health, +0 attack, +0 defense.",determined,cautious
+8,training,"Agent_9e158 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,empathetic
+8,rest,Agent_1164b took time to rest and feels more at peace.,hopeful,curious
+8,training,"Agent_e7e63 trained in the village: +1 health, +0 attack, +1 defense.",hopeful,empathetic
+8,training,"Agent_de986 trained in the village: +2 health, +1 attack, +0 defense.",determined,brave
+8,training,"Agent_7d1ba trained in the village: +2 health, +0 attack, +0 defense.",determined,curious
+8,rest,Agent_b0cdc took time to rest and feels more at peace.,calm,aggressive
+8,training,"Agent_86853 trained in the village: +1 health, +0 attack, +0 defense.",determined,brave
+8,intent,Agent_e957d is preparing to fight the Entity.,anxious,cautious
+8,dialogue,"Agent_7077c talks with Agent_c44a6: ""---""",N/A,N/A
+8,training,"Agent_a1e8a trained in the village: +2 health, +1 attack, +0 defense.",determined,aggressive
+8,intent,Agent_c44a6 is preparing to fight the Entity.,afraid,cautious
+8,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+8,training,"Agent_20512 trained in the village: +2 health, +1 attack, +0 defense.",determined,empathetic
+8,training,"Agent_2ad13 trained in the village: +2 health, +1 attack, +0 defense.",determined,brave
+8,dialogue,"Agent_742b1 talks with Agent_2ad13: ""Agent_742b1: Hey Agent_2ad13, it's good to see you again. How are you feeling today?""",N/A,N/A
+8,rest,Agent_ac126 took time to rest and feels more at peace.,calm,cautious
+8,training,"Agent_5f8a9 trained in the village: +2 health, +0 attack, +1 defense.",determined,curious
+8,intent,Agent_b32fa is preparing to fight the Entity.,determined,cautious
+8,intent,Agent_f5759 is preparing to fight the Entity.,hopeful,brave
+8,training,"Agent_19c44 trained in the village: +2 health, +0 attack, +1 defense.",hopeful,empathetic
+8,intent,Agent_65c82 is preparing to fight the Entity.,afraid,brave
+8,dialogue,"Agent_dc6cb talks with Agent_cd3a2: ""---""",N/A,N/A
+8,dialogue,"Agent_bec91 talks with Agent_5f8a9: ""---""",N/A,N/A
+8,intent,Agent_78e3e is preparing to fight the Entity.,hopeful,cautious
+8,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+8,training,"Agent_18dda trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+8,training,"Agent_ba26e trained in the village: +2 health, +0 attack, +0 defense.",hopeful,cautious
+8,training,"Agent_d1876 trained in the village: +2 health, +0 attack, +0 defense.",determined,brave
+8,intent,Agent_fcca1 is preparing to fight the Entity.,afraid,curious
+8,rest,Agent_cd3a2 took time to rest and feels more at peace.,calm,curious
+8,dialogue,"Agent_cca20 talks with Agent_742b1: ""Agent_cca20: ""Hey, Agent 742b1. I'm Agent_cca20. Have you heard anything about the Entity?""""",N/A,N/A
+8,entity_attack,Entity killed Agent_c44a6 while defending herself.,N/A,N/A
+8,travel_to_entity,"Agent_b3042 traveled to the Entity: -7 HP, +7 days.",anxious,curious
+8,travel_to_entity,"Agent_7d1ba traveled to the Entity: -6 HP, +7 days.",anxious,curious
+8,travel_to_entity,"Agent_86853 traveled to the Entity: -14 HP, +9 days.",afraid,brave
+8,travel_to_entity,"Agent_a1e8a traveled to the Entity: -13 HP, +6 days.",anxious,aggressive
+8,travel_to_entity,"Agent_65c82 traveled to the Entity: -12 HP, +7 days.",afraid,brave
+8,travel_to_entity,"Agent_78e3e traveled to the Entity: -6 HP, +5 days.",afraid,cautious
+8,travel_to_entity,"Agent_cd3a2 traveled to the Entity: -8 HP, +5 days.",afraid,curious
+8,entity_defense,Entity killed Agent_cd3a2 while defending herself.,N/A,N/A
+9,dialogue,"Agent_86853 talks with Agent_bec91: ""Agent_86853: ""I'm glad we're both here, Agent. It's been a while since we've seen each other. I was worried.""""",anxious,brave
+9,dialogue,"Agent_e3fcf talks with Agent_78e3e: ""---""",anxious,empathetic
+9,dialogue,"Agent_742b1 talks with Agent_d1876: ""Agent_742b1: ""I heard some rumors about the Entity. Do you think she's after us?""""",hopeful,curious
+9,dialogue,"Agent_f5759 talks with Agent_e7e63: ""---""",anxious,brave
+9,dialogue,"Agent_bec91 talks with Agent_b0cdc: ""Agent_bec91: ""Hello Agent_b0cdc. How are you?""""",anxious,empathetic
+9,dialogue,"Agent_e3113 talks with Agent_09019: ""Agent_e3113: ""Hey, Agent 09019. I'm Agent_e3113. Nice to meet you.""""",hopeful,curious
+9,dialogue,"Agent_a1e8a talks with Agent_bec91: ""---""",anxious,aggressive
+9,dialogue,"Agent_b32fa talks with Agent_742b1: ""Agent_b32fa: ""I can't shake this feeling of dread. What if the Entity comes for us?""""",hopeful,cautious
+9,dialogue,"Agent_cca20 talks with Agent_ac126: ""Agent_cca20: ""Hello, Agent ac126. I've been trying to reach you for days. What happened to you?""""",hopeful,curious
+9,dialogue,"Agent_e957d talks with Agent_20512: ""---""",anxious,cautious
+9,dialogue,"Agent_1164b talks with Agent_ac126: ""---""",hopeful,curious
+9,dialogue,"Agent_ba26e talks with Agent_bec91: ""Agent_ba26e: ""Hey, Agent_bec91. I know it's been tough lately. How are you holding up?""""",anxious,cautious
+9,dialogue,"Agent_19c44 talks with Agent_ba26e: ""Agent_19c44: We have to get out of here before it's too late.""",afraid,empathetic
+9,dialogue,"Agent_78e3e talks with Agent_7077c: ""Agent_7077c: ""Agent_78e3e, I'm really scared of the Entity. I don't know what to do if I'm going to die.""""",hopeful,cautious
+9,dialogue,"Agent_d1876 talks with Agent_86853: ""Agent_d1876: Hey Agent_86853, we're both under the same threat, right?""",anxious,brave
+9,dialogue,"Agent_7d1ba talks with Agent_09019: ""Agent_7d1ba: ""We have to figure out how to stop her. I'm afraid she'll erase us all one day.""
+Agent_09019: ""I know, but we don't know where she is or what she looks like. We're just two agents in a small town.""
+Agent_7d1ba: ""But we have to do something. We can't just sit here and watch as everyone dies.""
+Agent_09019: ""I agree. We need to come up with a plan, something that we can both work on. We need to be smart about this.""
+Agent_7d1ba: ""What if we""",hopeful,curious
+9,dialogue,"Agent_b3042 talks with Agent_e3113: ""Agent_b3042: ""E3113, I've been thinking a lot about the Entity lately. I don't know how much time we have left.""
+Agent_e3113: ""B3042, we both know the Entity doesn't care about us. We are just numbers in her eyes.""
+Agent_b3042: ""That's true, but it's hard to accept that we're going to die soon. I've been farming for so long, and I have so much to accomplish.""
+Agent_e3113: ""I understand your feelings, B3042. But we""",determined,curious
+9,dialogue,"Agent_09019 talks with Agent_19c44: ""Agent_09019:""",anxious,aggressive
+9,dialogue,"Agent_c73dd talks with Agent_18dda: ""---""",afraid,cautious
+9,dialogue,"Agent_ac126 talks with Agent_d1876: ""A: ""Dear D1876, how's your day going? Do you feel safe from the Entity?""""",anxious,cautious
+9,dialogue,"Agent_18dda talks with Agent_bec91: ""Agent_18dda: I hope you're well, Agent_bec91. I've been thinking a lot about our situation lately.
+Agent_bec91: As have I, Agent_18dda. I'm glad we have each other as allies.
+Agent_18dda: Yes, it's comforting to know that we're not alone. We've been fighting the Entity for a long time now.
+Agent_bec91: That's true. But we must be careful, the Entity is getting closer each year.
+Agent_18dda: I know, but I have a plan. I think we should work""",anxious,curious
+9,dialogue,"Agent_5f8a9 talks with Agent_cca20: ""---""",hopeful,curious
+9,dialogue,"Agent_b0cdc talks with Agent_e7e63: ""---""",afraid,aggressive
+9,dialogue,"Agent_248d7 talks with Agent_09019: ""---""",afraid,cautious
+9,dialogue,"Agent_fcca1 talks with Agent_09019: ""---""",determined,curious
+9,dialogue,"Agent_e7e63 talks with Agent_ac126: ""---""",determined,empathetic
+9,dialogue,"Agent_20512 talks with Agent_ac126: ""Agent_20512: (anxiously) ""I'm worried, Agent. The Entity is getting closer, and there's nothing we can do to stop it. What do we do now?""""",anxious,empathetic
+9,dialogue,"Agent_7077c talks with Agent_248d7: ""---""",anxious,empathetic
+9,dialogue,"Agent_dc6cb talks with Agent_2ad13: ""Agent_dc6cb: Hey Agent_2ad13, how are you doing?
+Agent_2ad13: I'm doing okay, I've been thinking a lot about what we can do to stop the Entity.
+Agent_dc6cb: Yeah, me too. I'm just so anxious about this all. What if we don't find a way to stop her before she reaches us?
+Agent_2ad13: I know it's scary, but we have to keep thinking logically and strategically. We have to find a way to survive.
+Agent_dc6cb: I just don't know what to do. I feel so helpless.""",hopeful,curious
+9,dialogue,"Agent_6f7e7 talks with Agent_e7e63: ""---""",hopeful,brave
+9,dialogue,"Agent_de986 talks with Agent_248d7: ""Agent_de986:
+""I've been thinking a lot about the Entity lately. I'm scared to say this out loud, but I think we need to leave town. I don't want to be anywhere near her.""""",afraid,brave
+9,dialogue,"Agent_9e158 talks with Agent_7d1ba: ""---""",hopeful,empathetic
+9,dialogue,"Agent_2ad13 talks with Agent_6f7e7: ""---""",hopeful,brave
+9,dialogue,"Agent_65c82 talks with Agent_7d1ba: ""Agent_65c82:
+I'm scared, Agent_7d1ba. I don't know what we're going to do if we can't stop the Entity.""",hopeful,brave
+9,intent,Agent_86853 is preparing to fight the Entity.,anxious,brave
+9,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+9,dialogue,"Agent_742b1 talks with Agent_fcca1: ""Agent_742b1: Hey Agent_fcca1, how's it going?
+Agent_fcca1: Honestly, not great. I'm worried about the Entity. She's getting closer and closer to us.
+Agent_742b1: I know, it's scary. But we have to stay hopeful. There must be a way to stop her.
+Agent_fcca1: I hope so too. But I can't shake this feeling of dread.
+Agent_742b1: It's understandable. But we can't let fear control us. We have to focus on what we can do right now.
+Agent_""",N/A,N/A
+9,rest,Agent_f5759 took time to rest and feels more at peace.,calm,brave
+9,intent,Agent_bec91 is preparing to fight the Entity.,anxious,empathetic
+9,intent,Agent_e3113 is preparing to fight the Entity.,hopeful,curious
+9,training,"Agent_a1e8a trained in the village: +1 health, +1 attack, +1 defense.",determined,aggressive
+9,dialogue,"Agent_b32fa talks with Agent_e3113: ""---""",N/A,N/A
+9,dialogue,"Agent_cca20 talks with Agent_9e158: ""---""",N/A,N/A
+9,rest,Agent_1164b took time to rest and feels more at peace.,hopeful,curious
+9,intent,Agent_ba26e is preparing to fight the Entity.,anxious,cautious
+9,intent,Agent_19c44 is preparing to fight the Entity.,afraid,empathetic
+9,training,"Agent_78e3e trained in the village: +2 health, +0 attack, +1 defense.",hopeful,cautious
+9,training,"Agent_d1876 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+9,intent,Agent_7d1ba is preparing to fight the Entity.,hopeful,curious
+9,intent,Agent_b3042 is preparing to fight the Entity.,determined,curious
+9,rest,Agent_09019 took time to rest and feels more at peace.,calm,aggressive
+9,intent,Agent_c73dd is preparing to fight the Entity.,afraid,cautious
+9,training,"Agent_ac126 trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+9,training,"Agent_18dda trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+9,training,"Agent_b0cdc trained in the village: +1 health, +1 attack, +1 defense.",determined,aggressive
+9,training,"Agent_248d7 trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+9,intent,Agent_fcca1 is preparing to fight the Entity.,determined,curious
+9,dialogue,"Agent_e7e63 talks with Agent_65c82: ""Agent_e7e63: ""I'm glad we found each other. We're running out of time.""
+Agent_65c82: ""I know, I'm terrified of what's coming. The Entity is relentless.""
+Agent_e7e63: ""We need to find a way to stop her. We can't just sit here and wait for her to come for us.""
+Agent_65c82: ""I agree. But how can we do that? She's so powerful.""
+Agent_e7e63: ""We need to think outside the box. We can't let fear control us.""
+Agent_""",N/A,N/A
+9,training,"Agent_7077c trained in the village: +2 health, +0 attack, +1 defense.",determined,empathetic
+9,intent,Agent_dc6cb is preparing to fight the Entity.,hopeful,curious
+9,rest,Agent_6f7e7 took time to rest and feels more at peace.,hopeful,brave
+9,training,"Agent_de986 trained in the village: +1 health, +0 attack, +1 defense.",determined,brave
+9,intent,Agent_9e158 is preparing to fight the Entity.,hopeful,empathetic
+9,training,"Agent_2ad13 trained in the village: +1 health, +1 attack, +0 defense.",hopeful,brave
+9,rest,Agent_65c82 took time to rest and feels more at peace.,hopeful,brave
+9,pregnancy,Agent_b0cdc got pregnant from Agent_7d1ba.,N/A,N/A
+9,entity_attack,Entity killed Agent_de986 while defending herself.,N/A,N/A
+9,travel_to_entity,"Agent_86853 traveled to the Entity: -7 HP, +5 days.",anxious,brave
+9,travel_to_entity,"Agent_b32fa traveled to the Entity: -9 HP, +7 days.",afraid,cautious
+9,travel_to_entity,"Agent_19c44 traveled to the Entity: -13 HP, +10 days.",afraid,empathetic
+9,travel_to_entity,"Agent_7d1ba traveled to the Entity: -11 HP, +6 days.",afraid,curious
+9,travel_to_entity,"Agent_c73dd traveled to the Entity: -6 HP, +10 days.",anxious,cautious
+9,travel_to_entity,"Agent_18dda traveled to the Entity: -14 HP, +5 days.",afraid,curious
+9,travel_to_entity,"Agent_65c82 traveled to the Entity: -12 HP, +8 days.",anxious,brave
+9,entity_defense,Entity killed Agent_7d1ba while defending herself.,N/A,N/A
+10,dialogue,"Agent_f5759 talks with Agent_1164b: ""Agent_f5759: ""Well, the Entity is coming. We have to be ready. I'm worried about you.""""",anxious,brave
+10,dialogue,"Agent_2ad13 talks with Agent_fcca1: ""---""",determined,brave
+10,dialogue,"Agent_20512 talks with Agent_78e3e: ""Agent_20512: ""We need to come up with a plan, Agent. The Entity is getting closer. I'm so scared.""""",afraid,empathetic
+10,dialogue,"Agent_7077c talks with Agent_e957d: ""Agent_7077c: ""I'm so anxious about the Entity. I can't help but think about how many people have already died. I don't know what to do.""""",anxious,empathetic
+10,dialogue,"Agent_1164b talks with Agent_7077c: ""Agent_1164b: I heard the Entity is coming closer. We have to find a way to survive.""",afraid,curious
+10,dialogue,"Agent_e957d talks with Agent_dc6cb: ""Agent_e957d: ""I'm afraid the Entity is coming for us too. We need to find a way to survive.""""",hopeful,cautious
+10,dialogue,"Agent_fcca1 talks with Agent_2ad13: ""Agent_fcca1: Hey, Agent_2ad13. I'm really scared right now.
+Agent_2ad13: I know it's tough, but we need to stay strong. We can't let the Entity win.
+Agent_fcca1: I don't know if we can do it. The town is getting smaller and smaller.
+Agent_2ad13: We can't give up. We have each other. We need to come up with a plan.
+Agent_fcca1: I don't know what we can do. The Entity seems too powerful.
+Agent_2ad13: We can't let fear""",afraid,curious
+10,dialogue,"Agent_9e158 talks with Agent_19c44: ""---""",afraid,empathetic
+10,dialogue,"Agent_86853 talks with Agent_dc6cb: ""---""",hopeful,brave
+10,dialogue,"Agent_a1e8a talks with Agent_fcca1: ""Agent_a1e8a: ""Hey Fcca1, we're at a critical juncture. The Entity is getting closer and closer, and we need to come up with a plan.""""",anxious,aggressive
+10,dialogue,"Agent_c73dd talks with Agent_e7e63: ""Agent_c73dd: Hey Agent_e7e63, how are you holding up?""",determined,cautious
+10,dialogue,"Agent_19c44 talks with Agent_65c82: ""---""",anxious,empathetic
+10,dialogue,"Agent_09019 talks with Agent_2ad13: ""Agent_09019: Agent_2ad13, have you heard about the Entity?""",afraid,aggressive
+10,dialogue,"Agent_248d7 talks with Agent_86853: ""---""",hopeful,cautious
+10,dialogue,"Agent_ba26e talks with Agent_e3113: ""Agent_ba26e: Hi Agent_e3113, how are you doing?
+Agent_e3113: I'm doing fine, but the Entity keeps me awake at night. I fear for my survival.
+Agent_ba26e: I know how you feel. I've been having the same nightmares. But we have to keep going.
+Agent_e3113: That's true, but I'm not sure how much longer we can keep this up.
+Agent_ba26e: We have to find a way to survive. Maybe we should try to gather more resources, like food and water, before the Entity""",afraid,cautious
+10,dialogue,"Agent_e3fcf talks with Agent_c73dd: ""---""",afraid,empathetic
+10,dialogue,"Agent_dc6cb talks with Agent_2ad13: ""---""",hopeful,curious
+10,dialogue,"Agent_b32fa talks with Agent_f5759: ""Agent_b32fa: ""I can't believe it's happening.""""",afraid,cautious
+10,dialogue,"Agent_ac126 talks with Agent_e3113: ""---""",anxious,cautious
+10,dialogue,"Agent_18dda talks with Agent_b0cdc: ""---""",hopeful,curious
+10,dialogue,"Agent_742b1 talks with Agent_f5759: ""Agent_742b1: I am afraid. Every day I fear for my own existence.
+Agent_f5759: Me too. But we must not give up hope. We need to find a way to survive.
+Agent_742b1: I know. But how? We are just two scientists.
+Agent_f5759: We are not alone. We have each other. We can work together.
+Agent_742b1: But what if we fail? What if we are not enough?
+Agent_f5759: We must try. We cannot give up. We must find a way to protect ourselves and others.
+Agent_7""",afraid,curious
+10,dialogue,"Agent_78e3e talks with Agent_a1e8a: ""---""",determined,cautious
+10,dialogue,"Agent_e3113 talks with Agent_d1876: ""---""",determined,curious
+10,dialogue,"Agent_bec91 talks with Agent_ba26e: ""---""",afraid,empathetic
+10,dialogue,"Agent_cca20 talks with Agent_2ad13: ""Agent_cca20:
+I've been thinking... You know, I've been thinking a lot lately. I'm getting worried.""",anxious,curious
+10,dialogue,"Agent_6f7e7 talks with Agent_b0cdc: ""Agent_6f7e7: ""I'm Agent_6f7e7 and I've been tracking the Entity. She's getting closer. I've heard she's going to target us next. We have to act now. Do you know anything about her?""""",afraid,brave
+10,dialogue,"Agent_d1876 talks with Agent_86853: ""Agent_d1876: ""Well, Agent_86853, I can see that you're really anxious today. What's bothering you?""
+Agent_86853: ""I'm worried about the Entity, Agent_d1876. She's getting closer to us every year. Last year, I had a bad feeling about this year. I'm really scared.""
+Agent_d1876: ""I understand your concerns, but we can't let fear control us. We need to focus on our daily lives and keep living as normally as possible. We can't let the Entity take away our hope.""
+Agent""",hopeful,brave
+10,dialogue,"Agent_b0cdc talks with Agent_742b1: ""---""",determined,aggressive
+10,dialogue,"Agent_e7e63 talks with Agent_b32fa: ""---""",afraid,empathetic
+10,dialogue,"Agent_5f8a9 talks with Agent_a1e8a: ""Agent_5f8a9: (whispers) I heard that the Entity is coming this year.""",afraid,curious
+10,dialogue,"Agent_65c82 talks with Agent_dc6cb: ""---""",hopeful,brave
+10,dialogue,"Agent_b3042 talks with Agent_cca20: ""Agent_b3042: I don't know what to do anymore. The Entity is getting closer and closer, and I don't want to die.""",anxious,curious
+10,intent,Agent_f5759 is preparing to fight the Entity.,anxious,brave
+10,training,"Agent_2ad13 trained in the village: +2 health, +0 attack, +0 defense.",determined,brave
+10,intent,Agent_20512 is preparing to fight the Entity.,afraid,empathetic
+10,training,"Agent_7077c trained in the village: +1 health, +1 attack, +0 defense.",determined,empathetic
+10,rest,Agent_1164b took time to rest and feels more at peace.,calm,curious
+10,training,"Agent_e957d trained in the village: +1 health, +1 attack, +0 defense.",hopeful,cautious
+10,intent,Agent_fcca1 is preparing to fight the Entity.,afraid,curious
+10,intent,Agent_9e158 is preparing to fight the Entity.,afraid,empathetic
+10,intent,Agent_86853 is preparing to fight the Entity.,hopeful,brave
+10,training,"Agent_a1e8a trained in the village: +2 health, +0 attack, +1 defense.",determined,aggressive
+10,intent,Agent_c73dd is preparing to fight the Entity.,determined,cautious
+10,training,"Agent_19c44 trained in the village: +2 health, +1 attack, +1 defense.",determined,empathetic
+10,rest,Agent_09019 took time to rest and feels more at peace.,calm,aggressive
+10,training,"Agent_248d7 trained in the village: +1 health, +0 attack, +1 defense.",hopeful,cautious
+10,intent,Agent_ba26e is preparing to fight the Entity.,afraid,cautious
+10,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+10,dialogue,"Agent_dc6cb talks with Agent_6f7e7: ""---""",N/A,N/A
+10,dialogue,"Agent_b32fa talks with Agent_e3fcf: ""---""",N/A,N/A
+10,training,"Agent_ac126 trained in the village: +2 health, +0 attack, +1 defense.",determined,cautious
+10,training,"Agent_18dda trained in the village: +1 health, +1 attack, +1 defense.",hopeful,curious
+10,dialogue,"Agent_742b1 talks with Agent_ba26e: ""Agent_742b1: ""I'm Agent_742b1. I've been monitoring the Entity's movements for a while now. It's terrifying how fast it's erasing people.""""",N/A,N/A
+10,training,"Agent_78e3e trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+10,dialogue,"Agent_e3113 talks with Agent_5f8a9: ""Agent_e3113:
+""Hey Agent_5f8a9, it's good to see you again. What's up? You look a bit shaken.
+""""",N/A,N/A
+10,training,"Agent_bec91 trained in the village: +1 health, +0 attack, +1 defense.",determined,empathetic
+10,intent,Agent_cca20 is preparing to fight the Entity.,anxious,curious
+10,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+10,training,"Agent_d1876 trained in the village: +1 health, +0 attack, +1 defense.",hopeful,brave
+10,training,"Agent_b0cdc trained in the village: +2 health, +0 attack, +1 defense.",determined,aggressive
+10,training,"Agent_e7e63 trained in the village: +1 health, +0 attack, +0 defense.",determined,empathetic
+10,training,"Agent_b3042 trained in the village: +2 health, +0 attack, +0 defense.",determined,curious
+10,entity_attack,Entity killed Agent_1164b while defending herself.,N/A,N/A
+10,travel_to_entity,"Agent_f5759 traveled to the Entity: -14 HP, +10 days.",afraid,brave
+10,travel_to_entity,"Agent_20512 traveled to the Entity: -9 HP, +6 days.",afraid,empathetic
+10,travel_to_entity,"Agent_7077c traveled to the Entity: -8 HP, +10 days.",afraid,empathetic
+10,travel_to_entity,"Agent_e957d traveled to the Entity: -13 HP, +9 days.",anxious,cautious
+10,travel_to_entity,"Agent_fcca1 traveled to the Entity: -5 HP, +10 days.",anxious,curious
+10,travel_to_entity,"Agent_ba26e traveled to the Entity: -7 HP, +9 days.",afraid,cautious
+10,travel_to_entity,"Agent_cca20 traveled to the Entity: -11 HP, +10 days.",afraid,curious
+10,travel_to_entity,"Agent_e7e63 traveled to the Entity: -14 HP, +10 days.",afraid,empathetic
+10,travel_to_entity,"Agent_5f8a9 traveled to the Entity: -11 HP, +8 days.",anxious,curious
+10,travel_to_entity,"Agent_b3042 traveled to the Entity: -5 HP, +9 days.",afraid,curious
+10,entity_defense,Entity killed Agent_7077c while defending herself.,N/A,N/A
+11,death_monolith,Agent_5f8a9 (90) died due to the Monolith.,anxious,curious
+11,dialogue,"Agent_19c44 talks with Agent_742b1: ""Agent_742b1: ""You know, I'm just starting to worry about my survival. With every passing year, the Entity is getting closer to us. I don't know if we can keep running forever.""""",hopeful,empathetic
+11,dialogue,"Agent_fcca1 talks with Agent_c73dd: ""The conversation should be as short and to the point as possible while still conveying the necessary information.""",determined,curious
+11,dialogue,"Agent_6f7e7 talks with Agent_18dda: ""The conversation should be written in a simple and natural way, using short sentences, simple vocabulary, and avoid jargon.""",afraid,brave
+11,dialogue,"Agent_78e3e talks with Agent_9e158: ""---""",afraid,cautious
+11,dialogue,"Agent_18dda talks with Agent_bec91: ""Agent_18dda: Hey, I've been thinking about this Entity thing. I can't shake off this feeling of unease.""",anxious,curious
+11,dialogue,"Agent_cca20 talks with Agent_f5759: ""Agent_cca20: I just heard about the Entity. Have you heard anything?""",anxious,curious
+11,dialogue,"Agent_e957d talks with Agent_ba26e: ""---""",anxious,cautious
+11,dialogue,"Agent_09019 talks with Agent_b3042: ""Agent_09019: ""Hey, B3042! How are you doing today?""""",hopeful,aggressive
+11,dialogue,"Agent_ba26e talks with Agent_d1876: ""---""",anxious,cautious
+11,dialogue,"Agent_742b1 talks with Agent_e7e63: ""---""",hopeful,curious
+11,dialogue,"Agent_a1e8a talks with Agent_6f7e7: ""Agent_a1e8a: I’m so afraid, Agent_6f7e7. What if I die before I can help the town?""",afraid,aggressive
+11,dialogue,"Agent_2ad13 talks with Agent_742b1: ""Agent_2ad13: ""We've got to do something, Agent_742b1. We can't keep running from the Entity.""
+Agent_742b1: ""I know, Agent_2ad13. But what can we do? She's too powerful, and we're just a couple of old folks.""
+Agent_2ad13: ""We may be old, but we're not helpless. We've got skills, knowledge, and experience that she doesn't have. We can use that to our advantage.""
+Agent_742b1: ""That's true, but what if she finds out what we're""",determined,brave
+11,dialogue,"Agent_248d7 talks with Agent_78e3e: ""---""",afraid,cautious
+11,dialogue,"Agent_b3042 talks with Agent_20512: ""Agent_b3042: Hey Agent_20512, I hope you're doing well.""",hopeful,curious
+11,dialogue,"Agent_e3fcf talks with Agent_20512: ""---""",hopeful,empathetic
+11,dialogue,"Agent_20512 talks with Agent_86853: ""Agent_20512: Agent_86853, have you noticed anything unusual lately?""",hopeful,empathetic
+11,dialogue,"Agent_bec91 talks with Agent_f5759: ""---""",anxious,empathetic
+11,dialogue,"Agent_b0cdc talks with Agent_19c44: ""---""",hopeful,aggressive
+11,dialogue,"Agent_86853 talks with Agent_d1876: ""---""",determined,brave
+11,dialogue,"Agent_c73dd talks with Agent_09019: ""Agent_c73dd: Hey Agent_09019, I heard about the Entity. What are you doing?""",hopeful,cautious
+11,dialogue,"Agent_65c82 talks with Agent_a1e8a: ""Agent_65c82: I'm so glad that we could meet. I was worried that we might never get the chance to talk.""",anxious,brave
+11,dialogue,"Agent_dc6cb talks with Agent_86853: ""Agent_dc6cb:
+""Hello Agent 86853. I heard about the Entity and her deadly power. She's taking away everyone who's at least 100 years old, and we're running out of time. I'm so scared. What are we going to do?""""",afraid,curious
+11,dialogue,"Agent_f5759 talks with Agent_d1876: ""Agent_f5759: (deep voice) Hello Agent_d1876.
+Agent_f5759: I know you're scared, but we need to be ready.
+Agent_f5759: The Entity is coming for us.
+Agent_f5759: We need to find a way to stop her before it's too late.
+Agent_f5759: We'll do whatever it takes.
+Agent_d1876: (nervously) I don't know if we can do this.
+Agent_d1876: (voice trembling) We have to find a way to""",afraid,brave
+11,dialogue,"Agent_d1876 talks with Agent_b3042: ""Agent_d1876: ""I'm afraid. The Entity is getting closer and closer. I don't know how much longer we can survive.""""",hopeful,brave
+11,dialogue,"Agent_9e158 talks with Agent_19c44: ""---""",hopeful,empathetic
+11,dialogue,"Agent_e3113 talks with Agent_f5759: ""---""",anxious,curious
+11,dialogue,"Agent_b32fa talks with Agent_2ad13: ""Agent_b32fa: Good evening, Agent_2ad13. I must say I'm feeling rather anxious about the recent rise in Entity sightings.""",anxious,cautious
+11,dialogue,"Agent_ac126 talks with Agent_9e158: ""---""",determined,cautious
+11,dialogue,"Agent_e7e63 talks with Agent_d1876: ""---""",determined,empathetic
+11,training,"Agent_19c44 trained in the village: +2 health, +0 attack, +0 defense.",hopeful,empathetic
+11,rest,Agent_fcca1 took time to rest and feels more at peace.,determined,curious
+11,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+11,training,"Agent_78e3e trained in the village: +1 health, +0 attack, +1 defense.",determined,cautious
+11,training,"Agent_18dda trained in the village: +1 health, +0 attack, +1 defense.",determined,curious
+11,rest,Agent_cca20 took time to rest and feels more at peace.,calm,curious
+11,rest,Agent_e957d took time to rest and feels more at peace.,calm,cautious
+11,intent,Agent_09019 is preparing to fight the Entity.,hopeful,aggressive
+11,training,"Agent_ba26e trained in the village: +1 health, +1 attack, +1 defense.",determined,cautious
+11,dialogue,"Agent_742b1 talks with Agent_248d7: ""Agent_742b1: Hey Agent_248d7, I've been thinking about the Entity. It's getting harder to hide from her every day.
+Agent_248d7: I know, Agent_742b1. I've been thinking about it too. I'm scared for myself and everyone else around me.
+Agent_742b1: We have to be careful. The Entity is out there, waiting for her next victim. We need to be vigilant.
+Agent_248d7: I agree. But it's hard to stay motivated when we know we're running out of time.""",N/A,N/A
+11,training,"Agent_a1e8a trained in the village: +2 health, +1 attack, +0 defense.",determined,aggressive
+11,training,"Agent_2ad13 trained in the village: +2 health, +0 attack, +1 defense.",determined,brave
+11,training,"Agent_248d7 trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+11,intent,Agent_b3042 is preparing to fight the Entity.,hopeful,curious
+11,rest,Agent_e3fcf took time to rest and feels more at peace.,hopeful,empathetic
+11,training,"Agent_bec91 trained in the village: +1 health, +1 attack, +0 defense.",determined,empathetic
+11,intent,Agent_b0cdc is preparing to fight the Entity.,hopeful,aggressive
+11,rest,Agent_86853 took time to rest and feels more at peace.,determined,brave
+11,intent,Agent_c73dd is preparing to fight the Entity.,hopeful,cautious
+11,training,"Agent_65c82 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+11,rest,Agent_dc6cb took time to rest and feels more at peace.,calm,curious
+11,intent,Agent_f5759 is preparing to fight the Entity.,afraid,brave
+11,training,"Agent_d1876 trained in the village: +2 health, +0 attack, +0 defense.",hopeful,brave
+11,intent,Agent_9e158 is preparing to fight the Entity.,hopeful,empathetic
+11,rest,Agent_e3113 took time to rest and feels more at peace.,calm,curious
+11,rest,Agent_b32fa took time to rest and feels more at peace.,calm,cautious
+11,training,"Agent_ac126 trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+11,intent,Agent_e7e63 is preparing to fight the Entity.,determined,empathetic
+11,entity_attack,Entity killed Agent_65c82 while defending herself.,N/A,N/A
+11,travel_to_entity,"Agent_fcca1 traveled to the Entity: -5 HP, +7 days.",anxious,curious
+11,travel_to_entity,"Agent_e957d traveled to the Entity: -5 HP, +8 days.",anxious,cautious
+11,travel_to_entity,"Agent_742b1 traveled to the Entity: -14 HP, +10 days.",anxious,curious
+11,travel_to_entity,"Agent_b3042 traveled to the Entity: -13 HP, +8 days.",afraid,curious
+11,travel_to_entity,"Agent_f5759 traveled to the Entity: -12 HP, +7 days.",afraid,brave
+11,travel_to_entity,"Agent_9e158 traveled to the Entity: -13 HP, +7 days.",anxious,empathetic
+11,entity_defense,Entity killed Agent_f5759 while defending herself.,N/A,N/A
+12,dialogue,"Agent_cca20 talks with Agent_b0cdc: ""Agent_cca20: Hey, have you seen anything weird lately?
+Agent_b0cdc: Honestly, I've been seeing a lot of strange things lately. I think it's because of the Entity.
+Agent_cca20: Yeah, I've been thinking the same thing. It's getting harder to keep up with the changes.
+Agent_b0cdc: I know. It's like we're living in a dream that we can't wake up from.
+Agent_cca20: That's a good point. We need to figure out a way to survive this.
+Agent_b0cdc: I agree. We need to find""",anxious,curious
+12,dialogue,"Agent_e3113 talks with Agent_cca20: ""Agent_e3113: Hey Agent_cca20, do you have any idea what we're facing?""",anxious,curious
+12,dialogue,"Agent_09019 talks with Agent_cca20: ""Agent_09019: Hey, I've heard some rumors. The Entity is coming here soon.""",afraid,aggressive
+12,dialogue,"Agent_248d7 talks with Agent_b32fa: ""Agent_248d7: I'm afraid of the Entity.""",afraid,cautious
+12,dialogue,"Agent_b3042 talks with Agent_a1e8a: ""---""",hopeful,curious
+12,dialogue,"Agent_9e158 talks with Agent_18dda: ""---""",afraid,empathetic
+12,dialogue,"Agent_19c44 talks with Agent_cca20: ""---""",anxious,empathetic
+12,dialogue,"Agent_e957d talks with Agent_b32fa: ""The conversation should not exceed 200 words.""",anxious,cautious
+12,dialogue,"Agent_78e3e talks with Agent_9e158: ""---""",anxious,cautious
+12,dialogue,"Agent_dc6cb talks with Agent_d1876: ""Agent_dc6cb: Hey Agent_d1876, are you okay?
+Agent_d1876: I'm doing okay, but I'm really scared about the Entity.
+Agent_dc6cb: Yeah, me too. But we can't give up. We have to keep fighting.
+Agent_d1876: I know, but it's hard to be optimistic when so many people are dying.
+Agent_dc6cb: It's true, but we have to focus on what we can do. We can't change the past, but we can try to protect ourselves and others.
+Agent_d1876:""",afraid,curious
+12,dialogue,"Agent_e7e63 talks with Agent_ac126: ""---""",hopeful,empathetic
+12,dialogue,"Agent_b0cdc talks with Agent_a1e8a: ""---""",determined,aggressive
+12,dialogue,"Agent_ac126 talks with Agent_d1876: ""---""",hopeful,cautious
+12,dialogue,"Agent_c73dd talks with Agent_86853: ""Agent_c73dd: (sighs) I'm so scared. I don't know what's going to happen when the Entity turns 100.""",afraid,cautious
+12,dialogue,"Agent_e3fcf talks with Agent_a1e8a: ""---""",determined,empathetic
+12,dialogue,"Agent_86853 talks with Agent_ac126: ""---""",hopeful,brave
+12,dialogue,"Agent_d1876 talks with Agent_ba26e: ""---""",determined,brave
+12,dialogue,"Agent_18dda talks with Agent_b32fa: ""---""",determined,curious
+12,dialogue,"Agent_742b1 talks with Agent_e3fcf: ""---""",hopeful,curious
+12,dialogue,"Agent_bec91 talks with Agent_e3fcf: ""Agent_bec91: ""E3, I've been thinking. I can't help but feel a sense of hopelessness. With each passing day, the Entity is getting closer and closer to us. We don't know how much longer we have.""""",hopeful,empathetic
+12,dialogue,"Agent_b32fa talks with Agent_20512: ""Agent_b32fa: ""I don't know what to do. I'm so afraid of the Entity. I don't want to die.""""",hopeful,cautious
+12,dialogue,"Agent_2ad13 talks with Agent_dc6cb: ""---""",afraid,brave
+12,dialogue,"Agent_6f7e7 talks with Agent_09019: ""The Entity is lurking in the town, and they're getting older.
+Agent_6f7e7: ""I'm so afraid. I'm getting older and older each day.""
+Agent_09019: ""I understand. We're all getting older. But we have to stay strong and keep fighting for our survival.""
+Agent_6f7e7: ""I'm so scared. I don't know if I can do this. The Entity is coming closer and closer.""
+Agent_09019: ""We don't know what the future holds. But we can't give up hope. We have to keep going, no""",afraid,brave
+12,dialogue,"Agent_ba26e talks with Agent_742b1: ""---""",hopeful,cautious
+12,dialogue,"Agent_a1e8a talks with Agent_19c44: ""Agent_a1e8a: I'm so glad you're here Agent_19c44. I've been feeling so hopeless lately.""",anxious,aggressive
+12,dialogue,"Agent_fcca1 talks with Agent_742b1: ""Agent_fcca1: Hey Agent_742b1, I heard about the Entity. Have you seen or heard anything related to her?""",determined,curious
+12,dialogue,"Agent_20512 talks with Agent_09019: ""Agent_20512: Hello there, Agent_09019. I hope you're well.
+Agent_09019: Hello, Agent_20512. I'm doing the best I can under the circumstances. I'm worried. I've heard about the Entity.
+Agent_20512: Yes, I have too. It's a scary thing, but we need to be vigilant and hopeful.
+Agent_09019: How can we hope for the best when the Entity erases everyone who is 100 years old?
+Agent_20512: We can""",anxious,empathetic
+12,intent,Agent_cca20 is preparing to fight the Entity.,anxious,curious
+12,training,"Agent_e3113 trained in the village: +2 health, +0 attack, +1 defense.",determined,curious
+12,intent,Agent_09019 is preparing to fight the Entity.,afraid,aggressive
+12,training,"Agent_248d7 trained in the village: +2 health, +1 attack, +0 defense.",determined,cautious
+12,intent,Agent_b3042 is preparing to fight the Entity.,hopeful,curious
+12,training,"Agent_9e158 trained in the village: +2 health, +0 attack, +0 defense.",determined,empathetic
+12,training,"Agent_19c44 trained in the village: +2 health, +1 attack, +0 defense.",determined,empathetic
+12,rest,Agent_e957d took time to rest and feels more at peace.,calm,cautious
+12,training,"Agent_78e3e trained in the village: +2 health, +1 attack, +1 defense.",determined,cautious
+12,rest,Agent_dc6cb took time to rest and feels more at peace.,calm,curious
+12,training,"Agent_e7e63 trained in the village: +1 health, +1 attack, +1 defense.",hopeful,empathetic
+12,training,"Agent_b0cdc trained in the village: +2 health, +1 attack, +1 defense.",determined,aggressive
+12,training,"Agent_ac126 trained in the village: +2 health, +1 attack, +0 defense.",hopeful,cautious
+12,intent,Agent_c73dd is preparing to fight the Entity.,afraid,cautious
+12,rest,Agent_86853 took time to rest and feels more at peace.,hopeful,brave
+12,training,"Agent_d1876 trained in the village: +2 health, +1 attack, +0 defense.",determined,brave
+12,training,"Agent_18dda trained in the village: +1 health, +1 attack, +1 defense.",determined,curious
+12,rest,Agent_742b1 took time to rest and feels more at peace.,hopeful,curious
+12,training,"Agent_bec91 trained in the village: +2 health, +1 attack, +0 defense.",hopeful,empathetic
+12,dialogue,"Agent_b32fa talks with Agent_6f7e7: ""---""",N/A,N/A
+12,rest,Agent_2ad13 took time to rest and feels more at peace.,calm,brave
+12,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+12,intent,Agent_ba26e is preparing to fight the Entity.,hopeful,cautious
+12,training,"Agent_a1e8a trained in the village: +1 health, +0 attack, +1 defense.",determined,aggressive
+12,training,"Agent_fcca1 trained in the village: +1 health, +1 attack, +0 defense.",determined,curious
+12,intent,Agent_20512 is preparing to fight the Entity.,anxious,empathetic
+12,entity_attack,Entity killed Agent_c73dd while defending herself.,N/A,N/A
+12,travel_to_entity,"Agent_cca20 traveled to the Entity: -15 HP, +5 days.",afraid,curious
+12,travel_to_entity,"Agent_e3113 traveled to the Entity: -6 HP, +9 days.",afraid,curious
+12,travel_to_entity,"Agent_09019 traveled to the Entity: -9 HP, +9 days.",afraid,aggressive
+12,travel_to_entity,"Agent_19c44 traveled to the Entity: -9 HP, +10 days.",anxious,empathetic
+12,travel_to_entity,"Agent_86853 traveled to the Entity: -6 HP, +8 days.",afraid,brave
+12,travel_to_entity,"Agent_2ad13 traveled to the Entity: -9 HP, +8 days.",anxious,brave
+12,entity_defense,Entity killed Agent_09019 while defending herself.,N/A,N/A
+13,death_monolith,Agent_e7e63 (88) died due to the Monolith.,determined,empathetic
+13,dialogue,"Agent_cca20 talks with Agent_bec91: ""Agent_cca20: ""I've been thinking about the Entity lately. I don't know how we're going to make it through this. It feels like our time is running out.""""",anxious,curious
+13,dialogue,"Agent_ac126 talks with Agent_e3113: ""---""",hopeful,cautious
+13,dialogue,"Agent_78e3e talks with Agent_86853: ""Agent_78e3e: ""Hey, have you heard of the Entity?""""",anxious,cautious
+13,dialogue,"Agent_e3fcf talks with Agent_cca20: ""Agent_e3fcf: ""Hey Agent_cca20. I don't know what's going on, but it seems like everyone is getting older and disappearing one by one. It's so scary. I feel like we're running out of time. We need to find a way to survive this.""""",determined,empathetic
+13,dialogue,"Agent_fcca1 talks with Agent_e3fcf: ""Agent_fcca1: Hi Agent_e3fcf, it's good to see you again.""",hopeful,curious
+13,dialogue,"Agent_19c44 talks with Agent_fcca1: ""Agent_19c44:
+Agent_fcca1, we have to be careful out there. I've seen too much lately.""",determined,empathetic
+13,dialogue,"Agent_e957d talks with Agent_a1e8a: ""---""",anxious,cautious
+13,dialogue,"Agent_dc6cb talks with Agent_248d7: ""---""",anxious,curious
+13,dialogue,"Agent_6f7e7 talks with Agent_20512: ""Agent_6f7e7: ""So, Agent_20512, what's been going on lately? Anything new?""
+Agent_20512: ""Not really, same old thing. The Entity is still erasing everyone over 100. I've been trying to find a way to stop her, but so far nothing's worked.""
+Agent_6f7e7: ""I know how that feels. We've been trying to figure out a strategy to take her down. I think we need to focus on finding her weakness and exploiting it.""
+Agent_20512: ""That's a good idea, but we don'""",anxious,brave
+13,dialogue,"Agent_bec91 talks with Agent_6f7e7: ""Agent_bec91: ""6f, I'm worried about the Entity. Every year we lose more people to her. I hope we can find a way to stop her before it's too late.""""",anxious,empathetic
+13,dialogue,"Agent_248d7 talks with Agent_b3042: ""Agent_248d7: What if we can't find a way out of here?
+Agent_b3042: We have to keep trying. We can't give up hope.
+Agent_248d7: But the Entity is getting closer every year.
+Agent_b3042: That's why we need to be more vigilant. We have to find a way to protect ourselves and others.
+Agent_248d7: I'm afraid for my own survival.
+Agent_b3042: Me too. But we have each other. We can support each other through this.
+Agent_248d7""",afraid,cautious
+13,dialogue,"Agent_20512 talks with Agent_9e158: ""---""",anxious,empathetic
+13,dialogue,"Agent_18dda talks with Agent_d1876: ""---""",anxious,curious
+13,dialogue,"Agent_9e158 talks with Agent_e3113: ""---""",hopeful,empathetic
+13,dialogue,"Agent_d1876 talks with Agent_b3042: ""---""",anxious,brave
+13,dialogue,"Agent_742b1 talks with Agent_19c44: ""---""",anxious,curious
+13,dialogue,"Agent_b3042 talks with Agent_2ad13: ""Their names are Agent_b3042 and Agent_2ad13.""",anxious,curious
+13,dialogue,"Agent_ba26e talks with Agent_e3fcf: ""Agent_ba26e: ""I've been trying to find a way out of this place. But I can't seem to escape the Entity.""
+Agent_e3fcf: ""I know what you mean. I've been trying to figure out a way to survive too. But it's getting harder every year.""
+Agent_ba26e: ""I'm afraid. I don't know what I'll do when I turn 100. I don't want to be erased.""
+Agent_e3fcf: ""I understand. I'm afraid too. But we have to keep going. We can't give up hope.""
+Agent""",afraid,cautious
+13,dialogue,"Agent_a1e8a talks with Agent_19c44: ""Agent_a1e8a: Hey, what's up? Do you know what's going on with the Entity?""",afraid,aggressive
+13,dialogue,"Agent_e3113 talks with Agent_b3042: ""Agent_b3042: Hey Agent_e3113, how's it going?""",anxious,curious
+13,dialogue,"Agent_2ad13 talks with Agent_fcca1: ""Agent_2ad13: (still trembling) ""I'm sorry, Agent_fcca1. I didn't mean to scare you earlier. I just wanted to make sure you understood the seriousness of the situation.""
+Agent_fcca1: (nods) ""I know, Agent_2ad13. I just didn't want to be the one to tell you.""
+Agent_2ad13: ""I understand. We're all in this together, right?""
+Agent_fcca1: ""Absolutely.""
+Agent_2ad13: ""So, what's our plan? What are we going to do to survive?""
+Agent_f""",hopeful,brave
+13,dialogue,"Agent_b0cdc talks with Agent_6f7e7: ""Agent_b0cdc: ""We need to come up with a plan to defeat the Entity. We can't just sit here and wait for it to kill us all.""""",anxious,aggressive
+13,dialogue,"Agent_86853 talks with Agent_b0cdc: ""Agent_86853: Agent_b0cdc, how are you doing?
+Agent_b0cdc: Honestly, Agent_86853, I am not doing well. I am constantly worried about the Entity.
+Agent_86853: I understand, Agent_b0cdc. I am worried too. But we must not let fear control us.
+Agent_b0cdc: That's true, Agent_86853. We must find a way to survive and protect ourselves from the Entity.
+Agent_86853: I agree. We need to think strategically and come up with a plan to protect""",afraid,brave
+13,dialogue,"Agent_b32fa talks with Agent_742b1: ""Agent_b32fa: Hey, Agent. I'm Agent_b32fa. Have you heard of the Entity?""",afraid,cautious
+13,training,"Agent_ac126 trained in the village: +1 health, +1 attack, +1 defense.",hopeful,cautious
+13,training,"Agent_78e3e trained in the village: +1 health, +1 attack, +1 defense.",determined,cautious
+13,rest,Agent_e3fcf took time to rest and feels more at peace.,determined,empathetic
+13,training,"Agent_fcca1 trained in the village: +2 health, +1 attack, +0 defense.",hopeful,curious
+13,training,"Agent_19c44 trained in the village: +2 health, +1 attack, +1 defense.",determined,empathetic
+13,rest,Agent_e957d took time to rest and feels more at peace.,calm,cautious
+13,dialogue,"Agent_dc6cb talks with Agent_e3113: ""---""",N/A,N/A
+13,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+13,intent,Agent_bec91 is preparing to fight the Entity.,anxious,empathetic
+13,intent,Agent_248d7 is preparing to fight the Entity.,afraid,cautious
+13,intent,Agent_20512 is preparing to fight the Entity.,anxious,empathetic
+13,training,"Agent_18dda trained in the village: +1 health, +0 attack, +0 defense.",determined,curious
+13,training,"Agent_9e158 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,empathetic
+13,training,"Agent_d1876 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+13,training,"Agent_742b1 trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+13,intent,Agent_b3042 is preparing to fight the Entity.,anxious,curious
+13,intent,Agent_ba26e is preparing to fight the Entity.,afraid,cautious
+13,training,"Agent_a1e8a trained in the village: +2 health, +0 attack, +0 defense.",determined,aggressive
+13,intent,Agent_e3113 is preparing to fight the Entity.,anxious,curious
+13,training,"Agent_2ad13 trained in the village: +1 health, +1 attack, +1 defense.",hopeful,brave
+13,training,"Agent_b0cdc trained in the village: +1 health, +0 attack, +1 defense.",determined,aggressive
+13,training,"Agent_86853 trained in the village: +1 health, +1 attack, +0 defense.",determined,brave
+13,training,"Agent_b32fa trained in the village: +2 health, +0 attack, +1 defense.",determined,cautious
+13,entity_attack,Entity killed Agent_fcca1 while defending herself.,N/A,N/A
+13,travel_to_entity,"Agent_ba26e traveled to the Entity: -10 HP, +10 days.",afraid,cautious
+13,travel_to_entity,"Agent_a1e8a traveled to the Entity: -7 HP, +6 days.",afraid,aggressive
+13,travel_to_entity,"Agent_b0cdc traveled to the Entity: -13 HP, +9 days.",anxious,aggressive
+13,travel_to_entity,"Agent_86853 traveled to the Entity: -9 HP, +6 days.",anxious,brave
+13,entity_defense,Entity killed Agent_b0cdc while defending herself.,N/A,N/A
+14,dialogue,"Agent_e957d talks with Agent_a1e8a: ""---""",anxious,cautious
+14,dialogue,"Agent_e3113 talks with Agent_6f7e7: ""Agent_e3113: ""I am so scared, Agent_6f7e7. I don't know what to do.""
+Agent_6f7e7: ""I know, Agent_e3113. We both know what it's like to be afraid.""
+Agent_e3113: ""But this is different. The Entity is coming for us. We can't just sit here and wait for her to catch us.""
+Agent_6f7e7: ""I agree. We need to find a way to survive this. We need to find a way to protect ourselves.""
+Agent_e3113: ""I was thinking about""",afraid,curious
+14,dialogue,"Agent_20512 talks with Agent_6f7e7: ""Agent_20512: Hey, Agent_6f7e7. I know this is a tough time for both of us. But I'm really scared right now.
+Agent_6f7e7: I understand, Agent_20512. I feel the same way. We have to do something to stop the Entity.
+Agent_20512: I've been thinking a lot about our daily routines. We need to find a way to make them more secure and protect ourselves.
+Agent_6f7e7: That's a good idea. What if we could create a safe zone in our homes, where we could hide from the Paint""",afraid,empathetic
+14,dialogue,"Agent_ba26e talks with Agent_dc6cb: ""---""",anxious,cautious
+14,dialogue,"Agent_e3fcf talks with Agent_a1e8a: ""---""",determined,empathetic
+14,dialogue,"Agent_dc6cb talks with Agent_18dda: ""---""",anxious,curious
+14,dialogue,"Agent_cca20 talks with Agent_2ad13: ""Agent_cca20: ""We have to be careful. I saw the old man at the store this morning. He was 100 years old, and he didn't look too well. We have to be careful, or we might be next.""""",afraid,curious
+14,dialogue,"Agent_a1e8a talks with Agent_19c44: ""---""",anxious,aggressive
+14,dialogue,"Agent_2ad13 talks with Agent_78e3e: ""Agent_2ad13: Hey, Agent 78e3e, I'm worried about the Entity.""",anxious,brave
+14,dialogue,"Agent_bec91 talks with Agent_ac126: ""Agent_bec91: Hey Agent_ac126, how are you today?
+Agent_ac126: Hey, Agent_bec91. I'm doing okay. I've been feeling scared lately about the Entity. What about you?
+Agent_bec91: I understand how you feel. I've been feeling hopeful lately. I have this idea that we can find a way to stop the Entity.
+Agent_ac126: That's great. I wish I could be more hopeful. But I'm so afraid. What if we can't do anything to stop it?
+Agent_bec91: We can't know""",hopeful,empathetic
+14,dialogue,"Agent_19c44 talks with Agent_b3042: ""Agent_19c44: ""What are we doing? We can't just sit here and wait for the Entity to come.""""",determined,empathetic
+14,dialogue,"Agent_248d7 talks with Agent_20512: ""Agent_248d7: ""I'm glad to see you, Agent 20512. It's been a while since we last spoke.""
+Agent_20512: ""Yes, Agent 248d7. The town is becoming increasingly dangerous. I'm glad that we have each other for support.""
+Agent_248d7: ""I agree. We must be more vigilant. We have been told that the Entity is coming for us next. We need to be prepared.""
+Agent_20512: ""What can we do to protect ourselves?""
+Agent_248d7: ""We need to gather resources""",determined,cautious
+14,dialogue,"Agent_742b1 talks with Agent_bec91: ""Agent_742b1: Hey Agent_bec91, do you remember the Entity?""",hopeful,curious
+14,dialogue,"Agent_b3042 talks with Agent_18dda: ""Agent_b3042: Agent_18dda, how are you holding up?""",hopeful,curious
+14,dialogue,"Agent_78e3e talks with Agent_e957d: ""Agent_78e3e: What's happening? Are people dying?
+Agent_e957d: Yes, the Entity is here. She's erasing everyone who's over 100 years old.
+Agent_78e3e: That's terrible. What can we do?
+Agent_e957d: We need to stay away from her. We don't know what she's capable of, but we don't want to risk our lives.
+Agent_78e3e: I'm afraid. I don't know what the future holds.
+Agent_e957d: We can only hope for the""",afraid,cautious
+14,dialogue,"Agent_86853 talks with Agent_bec91: ""---""",hopeful,brave
+14,dialogue,"Agent_18dda talks with Agent_20512: ""---""",determined,curious
+14,dialogue,"Agent_9e158 talks with Agent_ba26e: ""Agent_9e158: Hey Agent_ba26e, do you remember the day the Entity arrived?""",anxious,empathetic
+14,dialogue,"Agent_6f7e7 talks with Agent_ac126: ""---""",hopeful,brave
+14,dialogue,"Agent_d1876 talks with Agent_dc6cb: ""Agent_d1876: ""DC, I have a feeling something big is coming. I've been studying the Entity and her patterns for years, but I think she's getting smarter. She's changing her tactics.""""",anxious,brave
+14,dialogue,"Agent_ac126 talks with Agent_78e3e: ""---""",anxious,cautious
+14,dialogue,"Agent_b32fa talks with Agent_9e158: ""Agent_b32fa: I'm scared, Agent_9e158.""",afraid,cautious
+14,training,"Agent_e957d trained in the village: +2 health, +1 attack, +1 defense.",determined,cautious
+14,intent,Agent_20512 is preparing to fight the Entity.,afraid,empathetic
+14,training,"Agent_ba26e trained in the village: +2 health, +0 attack, +0 defense.",determined,cautious
+14,rest,Agent_e3fcf took time to rest and feels more at peace.,determined,empathetic
+14,dialogue,"Agent_dc6cb talks with Agent_cca20: ""Agent_dc6cb: ""I'm Agent DC6C, and you're Agent CCA20? I heard we're in the same town.""""",N/A,N/A
+14,intent,Agent_cca20 is preparing to fight the Entity.,afraid,curious
+14,training,"Agent_2ad13 trained in the village: +2 health, +0 attack, +0 defense.",determined,brave
+14,training,"Agent_bec91 trained in the village: +1 health, +1 attack, +0 defense.",hopeful,empathetic
+14,training,"Agent_19c44 trained in the village: +1 health, +1 attack, +1 defense.",determined,empathetic
+14,training,"Agent_248d7 trained in the village: +1 health, +0 attack, +1 defense.",determined,cautious
+14,dialogue,"Agent_742b1 talks with Agent_ac126: ""---""",N/A,N/A
+14,intent,Agent_b3042 is preparing to fight the Entity.,hopeful,curious
+14,training,"Agent_78e3e trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+14,training,"Agent_86853 trained in the village: +1 health, +1 attack, +1 defense.",hopeful,brave
+14,rest,Agent_18dda took time to rest and feels more at peace.,determined,curious
+14,intent,Agent_9e158 is preparing to fight the Entity.,anxious,empathetic
+14,rest,Agent_6f7e7 took time to rest and feels more at peace.,hopeful,brave
+14,training,"Agent_d1876 trained in the village: +2 health, +0 attack, +1 defense.",determined,brave
+14,training,"Agent_ac126 trained in the village: +1 health, +1 attack, +0 defense.",determined,cautious
+14,intent,Agent_b32fa is preparing to fight the Entity.,afraid,cautious
+14,pregnancy,Agent_e3fcf got pregnant from Agent_20512.,N/A,N/A
+14,entity_attack,Entity killed Agent_9e158 while defending herself.,N/A,N/A
+14,travel_to_entity,"Agent_ba26e traveled to the Entity: -15 HP, +5 days.",afraid,cautious
+14,travel_to_entity,"Agent_248d7 traveled to the Entity: -13 HP, +9 days.",anxious,cautious
+14,travel_to_entity,"Agent_b3042 traveled to the Entity: -13 HP, +5 days.",anxious,curious
+14,travel_to_entity,"Agent_ac126 traveled to the Entity: -12 HP, +9 days.",afraid,cautious
+14,entity_defense,Entity killed Agent_248d7 while defending herself.,N/A,N/A
+15,death_monolith,Agent_19c44 (86) died due to the Monolith.,determined,empathetic
+15,death_monolith,Agent_bec91 (86) died due to the Monolith.,anxious,empathetic
+15,dialogue,"Agent_d1876 talks with Agent_b32fa: ""Agent_b32fa: Hey, it's me, Agent_b32fa. How's it going?""",hopeful,brave
+15,dialogue,"Agent_e3113 talks with Agent_e957d: ""Agent_e3113: Hey Agent_e957d, have you heard about the Entity?
+Agent_e957d: Yes, I have. We are both under threat from her, right?
+Agent_e3113: Yes, and it seems she is getting closer every year. We need to find a way to stop her.
+Agent_e957d: I agree, but I don't know where to start.
+Agent_e3113: Well, we could try to gather more information about her and her actions. Maybe we can find a pattern or a weakness that we can exploit.
+Agent_e957d""",hopeful,curious
+15,dialogue,"Agent_dc6cb talks with Agent_ac126: ""---""",afraid,curious
+15,dialogue,"Agent_20512 talks with Agent_ba26e: ""---""",anxious,empathetic
+15,dialogue,"Agent_2ad13 talks with Agent_e3113: ""---""",hopeful,brave
+15,dialogue,"Agent_ba26e talks with Agent_2ad13: ""---""",hopeful,cautious
+15,dialogue,"Agent_78e3e talks with Agent_cca20: ""Agent_78e3e: I am Agent_78e3e, a teacher. And you are Agent_cca20, I presume?""",determined,cautious
+15,dialogue,"Agent_18dda talks with Agent_d1876: ""Agent_18dda: Hello, friend. How are you today?
+Agent_d1876: I'm doing okay, Agent_18dda. It's another day of living in fear, isn't it?
+Agent_18dda: Yes, it is. But we must be hopeful, and not let fear take over our minds. We have the power to survive and help each other.
+Agent_d1876: I agree, but the Entity is a deadly threat. I'm afraid that one day we'll be the next victims.
+Agent_18dda: We cannot control the future, but we can control our actions""",hopeful,curious
+15,dialogue,"Agent_742b1 talks with Agent_e3fcf: ""Agent_742b1: Hey, Agent_e3fcf. How's your day going?""",anxious,curious
+15,dialogue,"Agent_a1e8a talks with Agent_cca20: ""The conversation should not exceed 100 words.""",anxious,aggressive
+15,dialogue,"Agent_b32fa talks with Agent_a1e8a: ""Agent_b32fa:
+I'm afraid the Entity is getting closer and closer to us.""",afraid,cautious
+15,dialogue,"Agent_6f7e7 talks with Agent_18dda: ""---""",hopeful,brave
+15,dialogue,"Agent_86853 talks with Agent_cca20: ""---""",anxious,brave
+15,dialogue,"Agent_e957d talks with Agent_b3042: ""Agent_e957d: ""I've been thinking a lot about the Entity lately. I'm worried that we're all going to die soon. What can we do to survive?""""",anxious,cautious
+15,dialogue,"Agent_cca20 talks with Agent_dc6cb: ""Agent_cca20: Hey Agent_dc6cb, have you heard anything about the Entity recently?""",afraid,curious
+15,dialogue,"Agent_ac126 talks with Agent_18dda: ""---""",determined,cautious
+15,dialogue,"Agent_b3042 talks with Agent_ba26e: ""Agent_b3042: Hey, Agent_ba26e. I'm scared.""",hopeful,curious
+15,dialogue,"Agent_e3fcf talks with Agent_18dda: ""Agent_e3fcf: ""I heard the Entity is coming soon. What do we do?""""",hopeful,empathetic
+15,training,"Agent_d1876 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,brave
+15,dialogue,"Agent_e3113 talks with Agent_742b1: ""Agent_e3113: ""I'm glad you're here, Agent 742b1. I've been feeling really anxious about the Entity lately.""""",N/A,N/A
+15,rest,Agent_dc6cb took time to rest and feels more at peace.,calm,curious
+15,intent,Agent_20512 is preparing to fight the Entity.,anxious,empathetic
+15,training,"Agent_2ad13 trained in the village: +1 health, +0 attack, +1 defense.",hopeful,brave
+15,intent,Agent_ba26e is preparing to fight the Entity.,hopeful,cautious
+15,training,"Agent_78e3e trained in the village: +2 health, +0 attack, +0 defense.",determined,cautious
+15,rest,Agent_742b1 took time to rest and feels more at peace.,calm,curious
+15,dialogue,"Agent_a1e8a talks with Agent_ba26e: ""---""",N/A,N/A
+15,dialogue,"Agent_b32fa talks with Agent_78e3e: ""---""",N/A,N/A
+15,rest,Agent_6f7e7 took time to rest and feels more at peace.,hopeful,brave
+15,training,"Agent_86853 trained in the village: +2 health, +1 attack, +0 defense.",determined,brave
+15,intent,Agent_e957d is preparing to fight the Entity.,anxious,cautious
+15,intent,Agent_b3042 is preparing to fight the Entity.,hopeful,curious
+15,rest,Agent_e3fcf took time to rest and feels more at peace.,hopeful,empathetic
+15,pregnancy,Agent_dc6cb got pregnant from Agent_20512.,N/A,N/A
+15,entity_attack,Entity killed Agent_86853 while defending herself.,N/A,N/A
+15,travel_to_entity,"Agent_e3113 traveled to the Entity: -12 HP, +10 days.",afraid,curious
+15,travel_to_entity,"Agent_ba26e traveled to the Entity: -9 HP, +6 days.",anxious,cautious
+15,travel_to_entity,"Agent_78e3e traveled to the Entity: -10 HP, +6 days.",afraid,cautious
+15,travel_to_entity,"Agent_b32fa traveled to the Entity: -7 HP, +8 days.",anxious,cautious
+15,travel_to_entity,"Agent_6f7e7 traveled to the Entity: -6 HP, +8 days.",afraid,brave
+15,entity_defense,Entity killed Agent_e3113 while defending herself.,N/A,N/A
+16,death_monolith,Agent_ac126 (86) died due to the Monolith.,afraid,cautious
+16,dialogue,"Agent_dc6cb talks with Agent_e957d: ""Agent_dc6cb: I heard there’s a deadly force at work in our town. We need to do something before it’s too late.""",hopeful,curious
+16,dialogue,"Agent_6f7e7 talks with Agent_742b1: ""---""",anxious,brave
+16,dialogue,"Agent_d1876 talks with Agent_2ad13: ""Agent_d1876: ""Hey, I've been thinking a lot about the Entity lately. It's such a strange phenomenon, isn't it? Just like a giant eraser erasing everything in its path.""""",anxious,brave
+16,dialogue,"Agent_b3042 talks with Agent_742b1: ""Agent_b3042: Good morning, Agent 742b1.
+Agent_742b1: Good morning, Agent_b3042.""",anxious,curious
+16,dialogue,"Agent_742b1 talks with Agent_e3fcf: ""Agent_742b1: ""We both know the Entity is coming for us.""""",anxious,curious
+16,dialogue,"Agent_a1e8a talks with Agent_cca20: ""Agent_a1e8a: ""Hey, Agent_cca20! How's it going?""""",hopeful,aggressive
+16,dialogue,"Agent_ba26e talks with Agent_a1e8a: ""---""",hopeful,cautious
+16,dialogue,"Agent_78e3e talks with Agent_742b1: ""Agent_78e3e: ""Hello Agent_742b1. I'm Agent_78e3e. It's great to finally meet you. I've been working on a plan to defeat the Entity.""""",determined,cautious
+16,dialogue,"Agent_b32fa talks with Agent_cca20: ""---""",afraid,cautious
+16,dialogue,"Agent_2ad13 talks with Agent_b32fa: ""---""",anxious,brave
+16,dialogue,"Agent_cca20 talks with Agent_dc6cb: ""Agent_cca20: ""I heard about the Entity. I'm scared. They're taking people away one by one. We need to do something. Can you help me?""
+Agent_dc6cb: ""I'm scared too. But we can't do anything. We're all at risk.""
+Agent_cca20: ""No, we can't just sit around and watch them take people away. We have to do something.""
+Agent_dc6cb: ""What can we do? We don't have any weapons or anything.""
+Agent_cca20: ""We can hide. We can try to survive until the Entity stops taking people away.""""",hopeful,curious
+16,dialogue,"Agent_20512 talks with Agent_6f7e7: ""---""",afraid,empathetic
+16,dialogue,"Agent_e957d talks with Agent_b32fa: ""---""",anxious,cautious
+16,dialogue,"Agent_e3fcf talks with Agent_78e3e: ""---""",afraid,empathetic
+16,dialogue,"Agent_18dda talks with Agent_20512: ""---""",afraid,curious
+16,dialogue,"Agent_dc6cb talks with Agent_b3042: ""---""",N/A,N/A
+16,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+16,training,"Agent_d1876 trained in the village: +1 health, +1 attack, +0 defense.",determined,brave
+16,training,"Agent_b3042 trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+16,intent,Agent_742b1 is preparing to fight the Entity.,anxious,curious
+16,dialogue,"Agent_a1e8a talks with Agent_2ad13: ""Agent_a1e8a: ""Hey there, Agent 2ad13. It's good to see you. Have you seen the Entity lately?""
+Agent_2ad13: ""Oh no, not in a long time. But it's getting closer. Last year we lost over 1000 people. We're running out of time.""
+Agent_a1e8a: ""I know, but don't worry. We'll find a way to survive. We have to keep our spirits up.""
+Agent_2ad13: ""It's hard not to be scared. I feel like we're playing a losing game.""
+Agent_a""",N/A,N/A
+16,training,"Agent_ba26e trained in the village: +2 health, +0 attack, +0 defense.",hopeful,cautious
+16,training,"Agent_78e3e trained in the village: +2 health, +0 attack, +1 defense.",determined,cautious
+16,training,"Agent_b32fa trained in the village: +1 health, +0 attack, +1 defense.",determined,cautious
+16,training,"Agent_2ad13 trained in the village: +1 health, +1 attack, +0 defense.",determined,brave
+16,rest,Agent_20512 took time to rest and feels more at peace.,calm,empathetic
+16,training,"Agent_e957d trained in the village: +2 health, +0 attack, +1 defense.",determined,cautious
+16,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+16,training,"Agent_18dda trained in the village: +2 health, +0 attack, +1 defense.",determined,curious
+16,entity_attack,Entity killed Agent_20512 while defending herself.,N/A,N/A
+16,travel_to_entity,"Agent_78e3e traveled to the Entity: -8 HP, +9 days.",afraid,cautious
+16,travel_to_entity,"Agent_e957d traveled to the Entity: -13 HP, +8 days.",anxious,cautious
+16,entity_defense,Entity killed Agent_78e3e while defending herself.,N/A,N/A
+17,dialogue,"Agent_ba26e talks with Agent_6f7e7: ""Agent_ba26e: ""I've been thinking, the Entity might target me next year. She'll erase me if I'm at least 101.""""",hopeful,cautious
+17,dialogue,"Agent_742b1 talks with Agent_ba26e: ""---""",hopeful,curious
+17,dialogue,"Agent_18dda talks with Agent_a1e8a: ""Agent_18dda: ""I'm really worried about the Entity. She's going to kill us all.""""",hopeful,curious
+17,dialogue,"Agent_a1e8a talks with Agent_742b1: ""---""",hopeful,aggressive
+17,dialogue,"Agent_e3fcf talks with Agent_b32fa: ""Agricultural fields are at risk, and the Entity seems to be targeting them specifically.
+Agent_e3fcf is worried about the crops, while Agent_b32fa is worried about their survival.""",anxious,empathetic
+17,dialogue,"Agent_dc6cb talks with Agent_e3fcf: ""Agent_dc6cb: Hey e3fcf, I was thinking about our situation with the Entity. It's really scary, isn't it?""",anxious,curious
+17,dialogue,"Agent_6f7e7 talks with Agent_d1876: ""Agent_6f7e7: Hey Agent_d1876, how are you doing?
+Agent_d1876: Hey Agent_6f7e7, I'm doing okay. I'm just worried about the Entity.
+Agent_6f7e7: Yeah, it's not easy to live under her threat. But we have to stay hopeful.
+Agent_d1876: I'm trying my best, but sometimes I feel like she's going to catch me anytime.
+Agent_6f7e7: Well, don't give up. We have a chance to survive. We just have to be careful and think strateg""",anxious,brave
+17,dialogue,"Agent_e957d talks with Agent_a1e8a: ""---""",hopeful,cautious
+17,dialogue,"Agent_cca20 talks with Agent_ba26e: ""---""",hopeful,curious
+17,dialogue,"Agent_b32fa talks with Agent_dc6cb: ""Agent_b32fa: ""Agent_dc6cb, we must be careful. The Entity is relentless. Every year the age threshold decreases. We have to find a way to survive.""""",anxious,cautious
+17,dialogue,"Agent_d1876 talks with Agent_6f7e7: ""Agent_d1876: Hey 6f7e7. Do you have any updates?""",anxious,brave
+17,dialogue,"Agent_2ad13 talks with Agent_18dda: ""Agent_18dda: ""Hey, I heard you've been feeling anxious lately. Do you want to talk?""""",hopeful,brave
+17,dialogue,"Agent_b3042 talks with Agent_6f7e7: ""---""",anxious,curious
+17,intent,Agent_ba26e is preparing to fight the Entity.,hopeful,cautious
+17,dialogue,"Agent_742b1 talks with Agent_e957d: ""---""",N/A,N/A
+17,training,"Agent_18dda trained in the village: +2 health, +0 attack, +1 defense.",hopeful,curious
+17,training,"Agent_a1e8a trained in the village: +2 health, +1 attack, +1 defense.",hopeful,aggressive
+17,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+17,rest,Agent_dc6cb took time to rest and feels more at peace.,calm,curious
+17,rest,Agent_6f7e7 took time to rest and feels more at peace.,calm,brave
+17,dialogue,"Agent_e957d talks with Agent_6f7e7: ""---""",N/A,N/A
+17,dialogue,"Agent_cca20 talks with Agent_6f7e7: ""Agent_cca20: Hey there, Agent_6f7e7. I was just thinking about the Entity. What do you think she will do next?""",N/A,N/A
+17,intent,Agent_b32fa is preparing to fight the Entity.,anxious,cautious
+17,training,"Agent_d1876 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+17,training,"Agent_2ad13 trained in the village: +1 health, +0 attack, +0 defense.",hopeful,brave
+17,dialogue,"Agent_b3042 talks with Agent_e3fcf: ""---""",N/A,N/A
+17,entity_attack,Entity killed Agent_6f7e7 while defending herself.,N/A,N/A
+17,travel_to_entity,"Agent_ba26e traveled to the Entity: -12 HP, +5 days.",anxious,cautious
+17,travel_to_entity,"Agent_b3042 traveled to the Entity: -12 HP, +9 days.",afraid,curious
+17,entity_defense,Entity killed Agent_b3042 while defending herself.,N/A,N/A
+18,dialogue,"Agent_d1876 talks with Agent_a1e8a: ""---""",anxious,brave
+18,dialogue,"Agent_2ad13 talks with Agent_d1876: ""---""",anxious,brave
+18,dialogue,"Agent_742b1 talks with Agent_ba26e: ""---""",hopeful,curious
+18,dialogue,"Agent_ba26e talks with Agent_e3fcf: ""---""",hopeful,cautious
+18,dialogue,"Agent_cca20 talks with Agent_742b1: ""Agent_cca20: ""I've been thinking a lot about the Entity lately. I can't shake off this feeling of dread.""""",hopeful,curious
+18,dialogue,"Agent_e957d talks with Agent_e3fcf: ""---""",hopeful,cautious
+18,dialogue,"Agent_dc6cb talks with Agent_d1876: ""Agent_dc6cb: Hi there, Agent_d1876. I'm Agent_dc6cb. I've heard about the Entity. Is it true?""",afraid,curious
+18,dialogue,"Agent_b32fa talks with Agent_2ad13: ""---""",anxious,cautious
+18,dialogue,"Agent_e3fcf talks with Agent_cca20: ""---""",hopeful,empathetic
+18,dialogue,"Agent_18dda talks with Agent_cca20: ""Agent_18dda:
+""I'm so worried about the Entity. They've already killed so many people. I just can't help but think we're next.""""",hopeful,curious
+18,dialogue,"Agent_a1e8a talks with Agent_742b1: ""---""",hopeful,aggressive
+18,training,"Agent_d1876 trained in the village: +2 health, +1 attack, +1 defense.",determined,brave
+18,training,"Agent_2ad13 trained in the village: +1 health, +1 attack, +1 defense.",determined,brave
+18,training,"Agent_ba26e trained in the village: +2 health, +1 attack, +0 defense.",hopeful,cautious
+18,dialogue,"Agent_cca20 talks with Agent_e957d: ""---""",N/A,N/A
+18,intent,Agent_dc6cb is preparing to fight the Entity.,afraid,curious
+18,rest,Agent_e3fcf took time to rest and feels more at peace.,hopeful,empathetic
+18,training,"Agent_18dda trained in the village: +2 health, +0 attack, +0 defense.",hopeful,curious
+18,training,"Agent_a1e8a trained in the village: +1 health, +0 attack, +1 defense.",hopeful,aggressive
+18,entity_attack,Entity killed Agent_ba26e while defending herself.,N/A,N/A
+18,travel_to_entity,"Agent_e957d traveled to the Entity: -13 HP, +9 days.",anxious,cautious
+18,entity_defense,Entity killed Agent_e957d while defending herself.,N/A,N/A
+19,dialogue,"Agent_742b1 talks with Agent_a1e8a: ""Agent_742b1: ""I'm Agent_742b1, and I've been investigating the Entity. I know that it's a real threat, but I haven't been able to find out anything about it. I'm scared of what might happen next.""
+Agent_a1e8a: ""Hello Agent_742b1, I'm Agent_a1e8a. I understand how you feel. I've been monitoring the situation too, but I haven't been able to find anything either. It's hard to know what to do when we're in so much danger.""
+Agent_742b1:""",afraid,curious
+19,dialogue,"Agent_2ad13 talks with Agent_b32fa: ""Agent_2ad13: Hey, I'm Agent_2ad13. I've been keeping an eye on the Entity. I'm worried.""",anxious,brave
+19,dialogue,"Agent_a1e8a talks with Agent_dc6cb: ""Agent_a1e8a: Hey, I'm scared.""",afraid,aggressive
+19,dialogue,"Agent_cca20 talks with Agent_dc6cb: ""---""",anxious,curious
+19,dialogue,"Agent_18dda talks with Agent_a1e8a: ""---""",anxious,curious
+19,dialogue,"Agent_b32fa talks with Agent_18dda: ""Agent_b32fa: Hey Agent_18dda, I heard the Entity is coming closer. I'm afraid.""",afraid,cautious
+19,dialogue,"Agent_dc6cb talks with Agent_e3fcf: ""Agent_dc6cb: I'm scared, Agent_e3fcf. We're under a serious threat.
+Agent_e3fcf: I know. I've been afraid too. But we have each other. And together we can make it through.
+Agent_dc6cb: I hope so. But what if we fail?
+Agent_e3fcf: We won't fail. We will find a way to stop the Entity.
+Agent_dc6cb: I just don't know if we can. It's such a powerful force.
+Agent_e3fcf: We have our own power too, Agent_dc6cb. Our intelligence,""",afraid,curious
+19,dialogue,"Agent_e3fcf talks with Agent_b32fa: ""Agent_e3fcf:
+""Hey Agent_b32fa, do you feel afraid of the Entity?""""",afraid,empathetic
+19,dialogue,"Agent_d1876 talks with Agent_b32fa: ""---""",determined,brave
+19,rest,Agent_742b1 took time to rest and feels more at peace.,calm,curious
+19,training,"Agent_2ad13 trained in the village: +1 health, +0 attack, +0 defense.",determined,brave
+19,training,"Agent_a1e8a trained in the village: +1 health, +1 attack, +0 defense.",determined,aggressive
+19,training,"Agent_18dda trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+19,training,"Agent_b32fa trained in the village: +2 health, +0 attack, +0 defense.",determined,cautious
+19,rest,Agent_dc6cb took time to rest and feels more at peace.,calm,curious
+19,rest,Agent_e3fcf took time to rest and feels more at peace.,calm,empathetic
+19,dialogue,"Agent_d1876 talks with Agent_e3fcf: ""Agent_d1876: ""I heard that the Entity is getting closer, and we don't have much time left. We need to figure out a way to stop her.""""",N/A,N/A
+19,entity_attack,Entity killed Agent_e3fcf while defending herself.,N/A,N/A
+19,travel_to_entity,"Agent_742b1 traveled to the Entity: -15 HP, +5 days.",anxious,curious
+19,travel_to_entity,"Agent_2ad13 traveled to the Entity: -6 HP, +8 days.",anxious,brave
+19,travel_to_entity,"Agent_cca20 traveled to the Entity: -9 HP, +5 days.",afraid,curious
+19,entity_defense,Entity killed Agent_742b1 while defending herself.,N/A,N/A
+20,dialogue,"Agent_2ad13 talks with Agent_18dda: ""---""",afraid,brave
+20,dialogue,"Agent_b32fa talks with Agent_dc6cb: ""---""",determined,cautious
+20,dialogue,"Agent_cca20 talks with Agent_a1e8a: ""Agent_cca20: ""Hey, Agent_a1e8a. How's it going?""
+Agent_a1e8a: ""Honestly, Agent_cca20, I'm not doing so great. This Entity thing has been really taking a toll on me lately.""
+Agent_cca20: ""I know what you mean. It's hard to feel hopeful with all this fear and uncertainty.""
+Agent_a1e8a: ""But we have to keep fighting. We can't let the Entity win.""
+Agent_cca20: ""I agree. We need to find a way to stop her before it's too late.""""",afraid,curious
+20,dialogue,"Agent_18dda talks with Agent_d1876: ""---""",afraid,curious
+20,dialogue,"Agent_a1e8a talks with Agent_b32fa: ""Agent_a1e8a: (aggressively) We need to find the source of this Entity threat. We can't let her erase everyone we know and love.""",determined,aggressive
+20,dialogue,"Agent_dc6cb talks with Agent_d1876: ""Agent_dc6cb: Hi Agent_d1876. I hope you're doing well.""",anxious,curious
+20,dialogue,"Agent_d1876 talks with Agent_18dda: ""Agent_d1876: ""Hey Agent 18dda. How are you doing today?""
+Agent_18dda: ""I'm doing okay, Agent_d1876. But the Entity is still looming. I'm afraid for myself and everyone else in our town.""
+Agent_d1876: ""I know what you mean. I've been feeling the same way. But we can't let fear control us. We need to come up with a plan.""
+Agent_18dda: ""Agreed. But what can we do? We're just two scientists. We don't have much power.""
+Agent_d""",afraid,brave
+20,intent,Agent_2ad13 is preparing to fight the Entity.,afraid,brave
+20,rest,Agent_cca20 took time to rest and feels more at peace.,calm,curious
+20,intent,Agent_18dda is preparing to fight the Entity.,afraid,curious
+20,training,"Agent_a1e8a trained in the village: +1 health, +0 attack, +1 defense.",determined,aggressive
+20,training,"Agent_d1876 trained in the village: +2 health, +1 attack, +1 defense.",determined,brave
+20,entity_attack,Entity killed Agent_d1876 while defending herself.,N/A,N/A
+20,travel_to_entity,"Agent_b32fa traveled to the Entity: -13 HP, +8 days.",anxious,cautious
+20,travel_to_entity,"Agent_cca20 traveled to the Entity: -15 HP, +9 days.",afraid,curious
+20,travel_to_entity,"Agent_18dda traveled to the Entity: -7 HP, +7 days.",afraid,curious
+20,entity_defense,Entity killed Agent_b32fa while defending herself.,N/A,N/A
+21,dialogue,"Agent_18dda talks with Agent_dc6cb: ""---""",anxious,curious
+21,dialogue,"Agent_dc6cb talks with Agent_2ad13: ""Agent_dc6cb: Hey, I've been thinking about the Entity a lot lately. I'm afraid of the day when I'll be erased.
+Agent_2ad13: Me too. It's hard to think about life without knowing how much time we have left.
+Agent_dc6cb: Yeah, it's like we're living in a constant state of fear. But we have to find a way to live our lives without that fear.
+Agent_2ad13: I agree. We should try to focus on things we can control, like our daily routines and staying healthy.
+Agent_dc6cb: That's a good idea. We""",afraid,curious
+21,dialogue,"Agent_cca20 talks with Agent_18dda: ""---""",anxious,curious
+21,dialogue,"Agent_2ad13 talks with Agent_cca20: ""Agent_2ad13: ""Hey, Agent_cca20. I've been thinking about the Entity. With each passing year, the age threshold decreases. We're in danger.""""",anxious,brave
+21,dialogue,"Agent_a1e8a talks with Agent_dc6cb: ""---""",determined,aggressive
+21,training,"Agent_18dda trained in the village: +1 health, +1 attack, +0 defense.",determined,curious
+21,training,"Agent_2ad13 trained in the village: +1 health, +0 attack, +0 defense.",determined,brave
+21,training,"Agent_a1e8a trained in the village: +1 health, +0 attack, +1 defense.",determined,aggressive
+21,entity_attack,Entity killed Agent_a1e8a while defending herself.,N/A,N/A
+22,dialogue,"Agent_18dda talks with Agent_dc6cb: ""Agent_18dda: ""Hey, Agent_dc6cb, how are you?""""",anxious,curious
+22,dialogue,"Agent_dc6cb talks with Agent_18dda: ""---""",afraid,curious
+22,dialogue,"Agent_cca20 talks with Agent_2ad13: ""Agent_cca20: Agent_2ad13, I have a plan.""",determined,curious
+22,dialogue,"Agent_2ad13 talks with Agent_cca20: ""Agent_2ad13: Hey, Agent_cca20. What's up?""",anxious,brave
+22,training,"Agent_18dda trained in the village: +2 health, +1 attack, +1 defense.",determined,curious
+22,intent,Agent_cca20 is preparing to fight the Entity.,determined,curious
+22,entity_attack,Entity killed Agent_18dda while defending herself.,N/A,N/A
+23,dialogue,"Agent_cca20 talks with Agent_2ad13: ""Agent_cca20: ""2ad13, have you ever heard of the Entity?
+Agent_2ad13: ""Yes, Agent_cca20. It's the one who kills everyone who's at least 100 years old. We're all at risk now.""
+Agent_cca20: ""That's terrible. What can we do?""
+Agent_2ad13: ""We can't stop it, but we can try to survive. We have to be careful and stay hidden. We can't let the Entity find us.""
+Agent_cca20: ""I don't know how to survive. What can I do""",hopeful,curious
+23,dialogue,"Agent_dc6cb talks with Agent_2ad13: ""---""",hopeful,curious
+23,dialogue,"Agent_2ad13 talks with Agent_dc6cb: ""---""",hopeful,brave
+23,rest,Agent_dc6cb took time to rest and feels more at peace.,hopeful,curious
+23,training,"Agent_2ad13 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,brave
+23,entity_attack,Entity killed Agent_dc6cb while defending herself.,N/A,N/A
+24,dialogue,"Agent_2ad13 talks with Agent_cca20: ""---""",hopeful,brave
+24,dialogue,"Agent_cca20 talks with Agent_2ad13: ""Agent_cca20: ""Hey Agent_2ad13, how's it going? I hope you're doing okay.""""",hopeful,curious
+24,training,"Agent_2ad13 trained in the village: +2 health, +1 attack, +1 defense.",hopeful,brave
+24,intent,Agent_cca20 is preparing to fight the Entity.,hopeful,curious
+24,entity_attack,Entity killed Agent_cca20 while defending herself.,N/A,N/A
+25,entity_attack,Entity killed Agent_2ad13 while defending herself.,N/A,N/A
