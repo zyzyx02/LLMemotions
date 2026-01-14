@@ -17,7 +17,17 @@ The project investigates how large language model (LLM)–driven agents exhibit 
 ## Repository Structure
 
 
-AISimulation/
+LLMemotions/
+
+├── datasets/
+
+│ └── initial_agents.csv
+
+│ ├── merged_event_logs_dialogue_only.csv
+
+│ ├── sanity_52_baseline_merged.csv
+
+│ └── sanity_52_trauma_merged.cav
 
 ├── README.md
 
@@ -41,15 +51,7 @@ AISimulation/
 
 │ └── 02_stats_and_effect_sizes.ipynb
 
-├── datasets/
 
-│ └── initial_agents.csv
-
-│ ├── merged_event_logs_dialogue_only.csv
-
-│ ├── sanity_52_baseline_merged.csv
-
-│ └── sanity_52_trauma_merged.cav
 
 └── outputs/
 
@@ -85,6 +87,10 @@ The full-scale simulation used in the paper can be executed with:
 python src/simulate_full.py
 
 Note that this may require significant computational resources and runtime.
+
+## Datasets
+
+The datasets used in the study can be found in the Datasets folder. 
 
 ## Statistical Analysis
 
