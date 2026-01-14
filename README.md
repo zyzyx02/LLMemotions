@@ -68,7 +68,7 @@ Install Python dependencies:
 pip install -r requirements.txt
 ```
 
-## Running the Sanity-Check Simulation (Recommended)
+## Running the Sanity-Check Simulation
 
 A reduced-scale version of the simulation (52 days/year, fewer agents and years) is provided to enable fast replication:
 
