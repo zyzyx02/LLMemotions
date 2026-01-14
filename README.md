@@ -53,9 +53,9 @@ LLMemotions/
 
 ├── src/
 
-│ ├── simulate_full.py
+│ ├── LLMemotions_full.py
 
-│ └── simulate_sanity_52.py
+│ └── LLMemotions_multiple_reduced.py
 
 ├── CITATION.cff
 
@@ -80,23 +80,21 @@ Install Python dependencies:
 pip install -r requirements.txt
 ```
 
-## Running the Sanity-Check Simulation
-
-A reduced-scale version of the simulation (52 days/year, fewer agents and years) is provided to enable fast replication:
-
-python src/simulate_sanity_52.py
-
-
-This script generates separate CSV log files for baseline and trauma conditions using fixed random seeds.
-
-
 ## Full Simulation
 
 The full-scale simulation used in the paper can be executed with:
 
-python src/simulate_full.py
+python src/LLMemotions_full.py
 
-Note that this may require significant computational resources and runtime.
+Executing this file only starts one simulation. Make sure to adjust the parameters beforehand in the code. Also note that this may require significant computational resources and runtime.
+
+## Running the Sanity-Check Simulation
+
+A reduced-scale version of the simulation (52 days/year, fewer agents and years) is provided to enable fast replication:
+
+python src/LLMemotions_multiple_reduced.py
+
+This script generates separate CSV log files for baseline and trauma conditions using fixed random seeds. It is also possible to change the simulation parameters as you like.
 
 ## Datasets
 
