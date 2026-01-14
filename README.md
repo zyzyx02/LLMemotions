@@ -1,4 +1,4 @@
-# AISimulation
+# LLMemotions
 
 This repository contains the full simulation and analysis pipeline used in the study:
 
