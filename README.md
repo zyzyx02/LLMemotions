@@ -21,7 +21,23 @@ LLMemotions/
 
 ├── datasets/
 
-│ └── initial_agents.csv
+│ └── event_log_1_baseline.csv
+
+│ ├── event_log_1_trauma.csv
+
+│ ├── event_log_12_baseline.csv
+
+│ ├── event_log_12_trauma.csv
+
+│ ├── event_log_52_baseline.csv
+
+│ ├── event_log_52_trauma.csv
+
+│ ├── event_log_356_baseline.csv
+
+│ ├── event_log_356_trauma.csv
+
+│ ├── initial_agents.csv
 
 │ ├── merged_event_logs_dialogue_only.csv
 
