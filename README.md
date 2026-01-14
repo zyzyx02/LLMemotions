@@ -29,14 +29,6 @@ LLMemotions/
 
 │ └── sanity_52_trauma_merged.cav
 
-├── README.md
-
-├── LICENSE
-
-├── CITATION.cff
-
-├── requirements.txt
-
 ├── src/
 
 │ ├── simulate_full.py
@@ -51,9 +43,13 @@ LLMemotions/
 
 │ └── 02_stats_and_effect_sizes.ipynb
 
+├── CITATION.cff
 
+├── LICENSE
 
-└── outputs/
+├── README.md
+
+└── requirements.txt
 
 
 ---
