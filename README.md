@@ -84,7 +84,9 @@ pip install -r requirements.txt
 
 The full-scale simulation used in the paper can be executed with:
 
+```bash
 python src/LLMemotions_full.py
+```
 
 Executing this file only starts one simulation. Make sure to adjust the parameters beforehand in the code. Also note that this may require significant computational resources and runtime.
 
@@ -92,7 +94,9 @@ Executing this file only starts one simulation. Make sure to adjust the paramete
 
 A reduced-scale version of the simulation (52 days/year, fewer agents and years) is provided to enable fast replication:
 
+```bash
 python src/LLMemotions_multiple_reduced.py
+```
 
 This script generates separate CSV log files for baseline and trauma conditions using fixed random seeds. It is also possible to change the simulation parameters as you like.
 
