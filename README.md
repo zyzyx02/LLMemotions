@@ -2,9 +2,11 @@
 
 This repository contains the full simulation and analysis pipeline used in the study:
 
-**“For those who come after: How narrative pressure shapes emotional expression in LLM-based agent populations”**
+**"For those who come after: How narrative pressure shapes emotional expression in LLM-based agent populations"**
 
 The code enables reproduction of the simulation logic, log generation, and statistical analyses reported in the manuscript.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18250356.svg)](https://doi.org/10.5281/zenodo.18250356)
 
 ---
 
@@ -12,61 +14,39 @@ The code enables reproduction of the simulation logic, log generation, and stati
 
 The project investigates how large language model (LLM)–driven agents exhibit emotionally evolving behavior under long-term narrative pressure. Agents interact, age, and communicate in a simulated post-apocalyptic environment inspired by *Clair Obscur: Expedition 33*, with emotional dynamics analyzed across different temporal resolutions and narrative histories.
 
+**Note on known limitations:** Approximately 46–49% of LLM dialogue calls return empty output (logged as "---") due to the configured stop sequence; these are excluded from sentiment analyses as described in the manuscript. The mental-state update mechanism uses keyword matching without negation handling; state labels should be treated as indicative annotations. The combat mechanic produces victory only when accumulated training raises agent attack values above the Entity's defense threshold — an emergent property of the simulation, not a scripted outcome. These limitations are discussed in detail in the paper.
+
 ---
 
 ## Repository Structure
 
-
+```
 LLMemotions/
-
 ├── datasets/
-
-│ └── event_log_1_baseline.csv
-
-│ ├── event_log_1_trauma.csv
-
-│ ├── event_log_12_baseline.csv
-
-│ ├── event_log_12_trauma.csv
-
-│ ├── event_log_52_baseline.csv
-
-│ ├── event_log_52_trauma.csv
-
-│ ├── event_log_356_baseline.csv
-
-│ ├── event_log_356_trauma.csv
-
-│ ├── initial_agents.csv
-
-│ ├── merged_event_logs_dialogue_only.csv
-
-│ ├── sanity_52_baseline_merged.csv
-
-│ └── sanity_52_trauma_merged.cav
-
+│   ├── event_log_1_baseline.csv
+│   ├── event_log_1_trauma.csv
+│   ├── event_log_12_baseline.csv
+│   ├── event_log_12_trauma.csv
+│   ├── event_log_52_baseline.csv
+│   ├── event_log_52_trauma.csv
+│   ├── event_log_365_baseline.csv
+│   ├── event_log_365_trauma.csv
+│   ├── initial_agents.csv
+│   ├── merged_event_logs_dialogue_only.csv
+│   ├── sanity_52_baseline_merged.csv
+│   └── sanity_52_trauma_merged.csv
 ├── notebooks/
-
-│ ├── LLMemotions_sentiments.ipynb
-
-│ ├── LLMemotions_sentiments_diffs.ipynb
-
-│ └── LLMemotions_sentiments_SBERT.ipynb
-
+│   ├── LLMemotions_sentiments.ipynb
+│   ├── LLMemotions_sentiments_diffs.ipynb
+│   └── LLMemotions_sentiments_SBERT.ipynb
 ├── src/
-
-│ ├── LLMemotions_full.py
-
-│ └── LLMemotions_multiple_reduced.py
-
+│   ├── LLMemotions_full.py
+│   └── LLMemotions_multiple_reduced.py
 ├── CITATION.cff
-
 ├── LICENSE
-
 ├── README.md
-
 └── requirements.txt
-
+```
 
 ---
 
@@ -82,6 +62,8 @@ Install Python dependencies:
 pip install -r requirements.txt
 ```
 
+---
+
 ## Full Simulation
 
 The full-scale simulation used in the paper can be executed with:
@@ -90,61 +72,63 @@ The full-scale simulation used in the paper can be executed with:
 python src/LLMemotions_full.py
 ```
 
-Executing this file only starts one simulation. Make sure to adjust the parameters beforehand in the code. Also note that this may require significant computational resources and runtime.
+Executing this file runs one simulation. Adjust the parameters in the code beforehand. Note that this requires significant computational resources and runtime.
 
-## Running the Sanity-Check Simulation
+---
 
-A reduced-scale version of the simulation (52 days/year, fewer agents and years) is provided to enable fast replication:
+## Running the Robustness Simulations
+
+A reduced-scale version of the simulation (52 days/year, 15 agents, 15 years) is provided to enable fast replication:
 
 ```bash
 python src/LLMemotions_multiple_reduced.py
 ```
 
-This script generates separate CSV log files for baseline and trauma conditions using fixed random seeds. It is also possible to change the simulation parameters as you like.
+This script generates separate CSV log files for baseline and trauma conditions using fixed random seeds. Simulation parameters can be adjusted in the code.
+
+---
 
 ## Datasets
 
-The datasets used in the study can be found in the Datasets folder. 
+The event log CSV files used in the study are located in the `datasets/` folder. Each file corresponds to one experimental condition (DPY × narrative history). The `merged_event_logs_dialogue_only.csv` file contains pooled dialogue events across all conditions and is used as input for the sentiment analysis notebooks.
+
+---
 
 ## Statistical Analysis
 
-To reproduce the statistical analyses reported in the manuscript use the files in the notebooks folder which contain Google Colab files.
+Analyses are implemented as Google Colab notebooks in the `notebooks/` folder.
 
-
-Run the following to receive TextBlob, VADER, and BERT statistics:
-
-```bash
-python notebooks/LLMemotions_sentiments.ipynb
+**Sentiment scoring** (TextBlob, VADER, BERT):
+```
+notebooks/LLMemotions_sentiments.ipynb
 ```
 
+**Non-parametric tests and effect sizes:**
+```
+notebooks/LLMemotions_sentiments_diffs.ipynb
+```
+Includes: Mann–Whitney U tests, Kruskal–Wallis tests with Dunn post-hoc comparisons, Benjamini–Hochberg FDR correction, Cliff's delta effect sizes.
 
-Run non-parametric tests and effect size estimation:
-
-```bash
-python notebooks/LLMemotions_sentiments_diffs.ipynb
+**Semantic similarity (SBERT):**
+```
+notebooks/LLMemotions_sentiments_SBERT.ipynb
 ```
 
-The analysis includes:
-
-Mann–Whitney U tests
-
-Kruskal–Wallis tests with Dunn post-hoc comparisons
-
-Benjamini–Hochberg FDR correction
-
-Cliff’s delta effect sizes
-
-
-Run SBERT:
-
-```bash
-python notebooks/LLMemotions_sentiments_SBERT.ipynb
-```
+---
 
 ## License
 
 This project is released under the MIT License.
 
+---
+
 ## Citation
 
-If you use this code, please cite the associated paper and software release (see CITATION.cff).
+If you use this code or data, please cite the associated paper and software release:
+
+**Paper:** Guzsvinecz, T. (2026). For those who come after: How narrative pressure shapes emotional expression in LLM-based agent populations. *Multimedia Tools and Applications*.
+**Paper is under review!**
+
+**Software:** Guzsvinecz, T. (2026). LLMemotions. Zenodo. https://doi.org/10.5281/zenodo.18250356
+
+See also `CITATION.cff` for machine-readable citation metadata.
