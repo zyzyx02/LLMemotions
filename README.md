@@ -2,7 +2,7 @@
 
 This repository contains the full simulation and analysis pipeline used in the study:
 
-**“For those who come after: Emotions of large language models in a post-apocalyptic world”**
+**“For those who come after: How narrative pressure shapes emotional expression in LLM-based agent populations”**
 
 The code enables reproduction of the simulation logic, log generation, and statistical analyses reported in the manuscript.
 
