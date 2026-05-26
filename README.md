@@ -39,6 +39,14 @@ LLMemotions/
 │   ├── LLMemotions_sentiments.ipynb
 │   ├── LLMemotions_sentiments_diffs.ipynb
 │   └── LLMemotions_sentiments_SBERT.ipynb
+├── reanalysis/
+│   ├── reanalysis.py
+│   ├── aggregate_full.csv
+│   ├── aggregate_valid.csv
+│   ├── data_audit.csv
+│   ├── direction_consistency.csv
+│   ├── state_personality_comparison.csv
+│   └── temporal_sentiment.csv
 ├── src/
 │   ├── LLMemotions_full.py
 │   └── LLMemotions_multiple_reduced.py
@@ -91,6 +99,8 @@ This script generates separate CSV log files for baseline and trauma conditions 
 ## Datasets
 
 The event log CSV files used in the study are located in the `datasets/` folder. Each file corresponds to one experimental condition (DPY × narrative history). The `merged_event_logs_dialogue_only.csv` file contains pooled dialogue events across all conditions and is used as input for the sentiment analysis notebooks.
+
+The `reanalysis/` folder contains a supplementary analysis script (`reanalysis.py`) and its outputs. This script re-runs sentiment comparisons on the valid dialogue subset (excluding empty LLM outputs and unlabeled rows) and reports direction consistency between the full and valid datasets.
 
 ---
 
